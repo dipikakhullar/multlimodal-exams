@@ -1,0 +1,1271 @@
+{
+    "request_id": "2024_12_29_01b64d500fd547a1ab36g",
+    "version": "RSK-M135p3",
+    "image_width": 2480,
+    "image_height": 3505,
+    "is_printed": true,
+    "is_handwritten": false,
+    "auto_rotate_confidence": 0,
+    "auto_rotate_degrees": 0,
+    "confidence": 0.5486819628624744,
+    "confidence_rate": 0.9873102177086057,
+    "text": "8. A sonometer wire of length 1.5 m is made of steel. The tension in it produces an elastic strain of $1 \\%$. What is the fundamental frequency of steel if density and elasticity of steel are $7.7 \\times 10^{3} \\mathrm{~kg} / \\mathrm{m}^{3}$ and $2.2 \\times 10^{11} \\mathrm{~N} / \\mathrm{m}^{2}$ respectively?\n(1) 188.5 Hz\n(2) 178.2 Hz\n(3) 200.5 Hz\n(4) 770 Hz\n9. A circular loop of radius 0.3 cm lies parallel to a much bigger circular loop of radius 20 cm . The centre of the small loop is on the axis of the bigger loop. The distance between their centres is 15 cm . If a current of 2.0 A flows through the smaller loop, then the flux linked with bigger loop is :\n(1) $9.1 \\times 10^{-11}$ weber\n(2) $6 \\times 10^{-11}$ weber\n(3) $3.3 \\times 10^{-11}$ weber\n(4) $6.6 \\times 10^{-9}$ weber\n8. \u0932\u092e\u094d\u092c\u093e\u0908 1.5 m \u0915\u093e \u090f\u0915 \u0938\u094b\u0928\u094b\u092e\u093e\u092a\u0940 \u0924\u093e\u0930 \u0938\u094d\u091f\u0940\u0932 \u0915\u093e \u092c\u0928\u093e \u0939\u0948\u0964 \u0907\u0938\u092e\u0947\u0902 \u090f\u0915 \u0924\u0928\u093e\u0935 $1 \\%$ \u0915\u0940 \u092a\u094d\u0930\u0924\u094d\u092f\u093e\u0938\u094d\u0925 \u0935\u093f\u0915\u0943\u0924\u093f \u0909\u0924\u094d\u092a\u0924\u094d\u0930 \u0915\u0930\u0924\u093e \u0939\u0948\u0964 \u092f\u0926\u093f \u0938\u094d\u091f\u0940\u0932 \u0915\u0947 \u0918\u0928\u0924\u094d\u0935 \u0914\u0930 \u092a\u094d\u0930\u0924\u094d\u092f\u093e\u0938\u094d\u0925\u0924\u093e \u0917\u0941\u0923\u093e\u0902\u0915 \u0915\u094d\u0930\u092e\u0936\u0903 $7.7 \\times 10^{3} \\mathrm{~kg} / \\mathrm{m}^{3}$ \u0914\u0930 $2.2 \\times 10^{11} \\mathrm{~N} / \\mathrm{m}^{2}$ \u0939\u0948\u0902 \u0924\u092c \u0938\u094d\u091f\u0940\u0932 \u0915\u0947 \u0924\u093e\u0930 \u0915\u0940 \u092e\u0942\u0932 \u0906\u0935\u0943\u0924\u094d\u0924\u093f \u0915\u094d\u092f\u093e \u0939\u0948 ?\n(1) 188.5 Hz\n- (2) 178.2 Hz\n(3) 200.5 Hz\n(4) 770 Hz\n9. \u0924\u094d\u0930\u093f\u091c\u094d\u092f\u093e 0.3 cm \u0915\u093e \u090f\u0915 \u0935\u0943\u0924\u094d\u0924\u0940\u092f \u0932\u0942\u092a \u090f\u0915 \u0915\u093e\u092b\u0940 \u092c\u0921\u093c\u0947 \u0924\u094d\u0930\u093f\u091c\u094d\u092f\u093e 20 cm \u0915\u0947 \u0935\u0943\u0924\u094d\u0924\u0940\u092f \u0932\u0942\u092a \u0915\u0947 \u0938\u092e\u093e\u0928\u094d\u0924\u0930 \u0930\u0916\u093e \u0939\u0948\u0964 \u091b\u094b\u091f\u0947 \u0932\u0942\u092a \u0915\u093e \u0915\u0947\u0928\u094d\u0926\u094d\u0930 \u092c\u0921\u093c\u0947 \u0932\u0942\u092a \u0915\u0940 \u0905\u0915\u094d\u0937 \u092a\u0930 \u0939\u0948\u0964 \u0909\u0928\u0915\u0947 \u0915\u0947\u0928\u094d\u0926\u094d\u0930\u094b\u0902 \u0915\u0947 \u092c\u0940\u091a \u0926\u0942\u0930\u094b 15 cm \u0939\u0948\u0964 \u092f\u0926\u093f \u091b\u094b\u091f\u0947 \u0932\u0942\u092a \u0938\u0947 2.0 A \u0915\u0940 \u0927\u093e\u0930\u093e \u092a\u094d\u0930\u0935\u093e\u0939\u093f\u0924 \u0939\u094b\u0924\u0940 \u0939\u0948, \u0924\u092c \u092c\u0921\u093c\u0947 \u0932\u0942\u092a \u0938\u0947 \u0938\u092e\u094d\u092c\u0926\u094d\u0927\u093f\u0924 \u092b\u094d\u0932\u0915\u094d\u0938 \u0939\u0948 :\n(1) $9.1 \\times 10^{-11}$ \u0935\u0947\u092c\u0930\n(2) $6 \\times 10^{-11}$ \u0935\u0947\u092c\u0930\n(3) $3.3 \\times 10^{-11}$ \u0935\u0947\u092c\u0930\n(4) $6.6 \\times 10^{-9}$ \u0935\u0947\u092c\u0930\n\nP/Page 5\nSPACE FOR ROUGH WORK / \u0930\u092b \u0915\u093e\u0930\u094d\u092f \u0915\u0947 \u0932\u093f\u090f \u091c\u0917\u0939",
+    "line_data": [
+        {
+            "type": "column",
+            "cnt": [
+                [
+                    175,
+                    234
+                ],
+                [
+                    1194,
+                    234
+                ],
+                [
+                    1194,
+                    3059
+                ],
+                [
+                    175,
+                    3059
+                ]
+            ],
+            "included": false,
+            "is_printed": true,
+            "is_handwritten": false,
+            "error_id": "image_not_supported"
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    189,
+                    327
+                ],
+                [
+                    189,
+                    245
+                ],
+                [
+                    1180,
+                    242
+                ],
+                [
+                    1180,
+                    324
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "8. A sonometer wire of length 1.5 m is made",
+            "after_hyphen": false,
+            "confidence": 0.9980480668600649,
+            "confidence_rate": 0.9999631357616906
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    305,
+                    396
+                ],
+                [
+                    305,
+                    325
+                ],
+                [
+                    1184,
+                    322
+                ],
+                [
+                    1184,
+                    393
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " of steel. The tension in it produces an",
+            "after_hyphen": false,
+            "confidence": 0.996584415435791,
+            "confidence_rate": 0.9999222432279963
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    304,
+                    471
+                ],
+                [
+                    304,
+                    400
+                ],
+                [
+                    1186,
+                    400
+                ],
+                [
+                    1186,
+                    471
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " elastic strain of $1 \\%$. What is the",
+            "after_hyphen": false,
+            "confidence": 0.9820387043276327,
+            "confidence_rate": 0.9995685560123366
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    307,
+                    552
+                ],
+                [
+                    307,
+                    478
+                ],
+                [
+                    1183,
+                    478
+                ],
+                [
+                    1183,
+                    552
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " fundamental frequency of steel if density",
+            "after_hyphen": false,
+            "confidence": 1,
+            "confidence_rate": 1
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    305,
+                    634
+                ],
+                [
+                    305,
+                    549
+                ],
+                [
+                    1184,
+                    549
+                ],
+                [
+                    1184,
+                    634
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " and elasticity of steel are $7.7 \\times 10^{3} \\mathrm{~kg} / \\mathrm{m}^{3}$",
+            "after_hyphen": false,
+            "confidence": 0.9960954189300537,
+            "confidence_rate": 0.9999388733706889
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    300,
+                    704
+                ],
+                [
+                    300,
+                    627
+                ],
+                [
+                    1047,
+                    627
+                ],
+                [
+                    1047,
+                    704
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " and $2.2 \\times 10^{11} \\mathrm{~N} / \\mathrm{m}^{2}$ respectively?",
+            "after_hyphen": false,
+            "confidence": 0.872559996202577,
+            "confidence_rate": 0.9976523486107925
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    307,
+                    897
+                ],
+                [
+                    307,
+                    823
+                ],
+                [
+                    630,
+                    823
+                ],
+                [
+                    630,
+                    897
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n(1) 188.5 Hz",
+            "after_hyphen": false,
+            "confidence": 0.9824302196502686,
+            "confidence_rate": 0.9990157091202773
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    302,
+                    1085
+                ],
+                [
+                    301,
+                    1011
+                ],
+                [
+                    629,
+                    1007
+                ],
+                [
+                    630,
+                    1081
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n(2) 178.2 Hz",
+            "after_hyphen": false,
+            "confidence": 0.9873106479644775,
+            "confidence_rate": 0.9992907766462054
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    307,
+                    1275
+                ],
+                [
+                    307,
+                    1201
+                ],
+                [
+                    630,
+                    1201
+                ],
+                [
+                    630,
+                    1275
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n(3) 200.5 Hz",
+            "after_hyphen": false,
+            "confidence": 0.9936552047729492,
+            "confidence_rate": 0.9996464509028228
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    308,
+                    1461
+                ],
+                [
+                    308,
+                    1387
+                ],
+                [
+                    590,
+                    1387
+                ],
+                [
+                    590,
+                    1461
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n(4) 770 Hz",
+            "after_hyphen": false,
+            "confidence": 0.9980478286743164,
+            "confidence_rate": 0.9998778775015812
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    183,
+                    1840
+                ],
+                [
+                    183,
+                    1763
+                ],
+                [
+                    1180,
+                    1763
+                ],
+                [
+                    1180,
+                    1840
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n9. A circular loop of radius 0.3 cm lies parallel",
+            "after_hyphen": false,
+            "confidence": 0.994151822293361,
+            "confidence_rate": 0.999900592309692
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    300,
+                    1915
+                ],
+                [
+                    300,
+                    1841
+                ],
+                [
+                    1179,
+                    1841
+                ],
+                [
+                    1179,
+                    1915
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " to a much bigger circular loop of radius",
+            "after_hyphen": false,
+            "confidence": 0.9990234375,
+            "confidence_rate": 0.9999782882435297
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    301,
+                    1992
+                ],
+                [
+                    301,
+                    1918
+                ],
+                [
+                    1183,
+                    1918
+                ],
+                [
+                    1183,
+                    1992
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " 20 cm . The centre of the small loop is on",
+            "after_hyphen": false,
+            "confidence": 0.9926922208420592,
+            "confidence_rate": 0.9998472072619047
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    300,
+                    2069
+                ],
+                [
+                    300,
+                    1995
+                ],
+                [
+                    1179,
+                    1995
+                ],
+                [
+                    1179,
+                    2069
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " the axis of the bigger loop. The distance",
+            "after_hyphen": false,
+            "confidence": 0.99853515625,
+            "confidence_rate": 0.9999681327320658
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    304,
+                    2139
+                ],
+                [
+                    304,
+                    2073
+                ],
+                [
+                    1180,
+                    2073
+                ],
+                [
+                    1180,
+                    2139
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " between their centres is 15 cm . If a current",
+            "after_hyphen": false,
+            "confidence": 0.99755859375,
+            "confidence_rate": 0.9999555575086555
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    300,
+                    2222
+                ],
+                [
+                    300,
+                    2148
+                ],
+                [
+                    1179,
+                    2148
+                ],
+                [
+                    1179,
+                    2222
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " of 2.0 A flows through the smaller loop,",
+            "after_hyphen": false,
+            "confidence": 0.5788295310119906,
+            "confidence_rate": 0.9886740588990722
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    301,
+                    2299
+                ],
+                [
+                    301,
+                    2225
+                ],
+                [
+                    1150,
+                    2225
+                ],
+                [
+                    1150,
+                    2299
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " then the flux linked with bigger loop is :",
+            "after_hyphen": false,
+            "confidence": 0.6847240924835205,
+            "confidence_rate": 0.9919740978086122
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    302,
+                    2483
+                ],
+                [
+                    303,
+                    2404
+                ],
+                [
+                    815,
+                    2407
+                ],
+                [
+                    814,
+                    2487
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n(1) $9.1 \\times 10^{-11}$ weber",
+            "after_hyphen": false,
+            "confidence": 1,
+            "confidence_rate": 1
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    297,
+                    2675
+                ],
+                [
+                    297,
+                    2593
+                ],
+                [
+                    776,
+                    2593
+                ],
+                [
+                    776,
+                    2675
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n(2) $6 \\times 10^{-11}$ weber",
+            "after_hyphen": false,
+            "confidence": 1,
+            "confidence_rate": 1
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    300,
+                    2864
+                ],
+                [
+                    300,
+                    2779
+                ],
+                [
+                    817,
+                    2776
+                ],
+                [
+                    818,
+                    2861
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n(3) $3.3 \\times 10^{-11}$ weber",
+            "after_hyphen": false,
+            "confidence": 1,
+            "confidence_rate": 1
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    298,
+                    3050
+                ],
+                [
+                    298,
+                    2968
+                ],
+                [
+                    797,
+                    2968
+                ],
+                [
+                    797,
+                    3050
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n(4) $6.6 \\times 10^{-9}$ weber",
+            "after_hyphen": false,
+            "confidence": 0.99951171875,
+            "confidence_rate": 0.9999852000944255
+        },
+        {
+            "type": "column",
+            "cnt": [
+                [
+                    1210,
+                    228
+                ],
+                [
+                    2242,
+                    228
+                ],
+                [
+                    2242,
+                    3058
+                ],
+                [
+                    1210,
+                    3058
+                ]
+            ],
+            "included": false,
+            "is_printed": true,
+            "is_handwritten": false,
+            "error_id": "image_not_supported"
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1219,
+                    322
+                ],
+                [
+                    1219,
+                    237
+                ],
+                [
+                    2232,
+                    237
+                ],
+                [
+                    2232,
+                    322
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n8. \u0932\u092e\u094d\u092c\u093e\u0908 1.5 m \u0915\u093e \u090f\u0915 \u0938\u094b\u0928\u094b\u092e\u093e\u092a\u0940 \u0924\u093e\u0930 \u0938\u094d\u091f\u0940\u0932 \u0915\u093e \u092c\u0928\u093e",
+            "after_hyphen": false,
+            "confidence": 0.9960997060422867,
+            "confidence_rate": 0.999931442351241
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1340,
+                    397
+                ],
+                [
+                    1340,
+                    315
+                ],
+                [
+                    2230,
+                    315
+                ],
+                [
+                    2230,
+                    397
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " \u0939\u0948\u0964 \u0907\u0938\u092e\u0947\u0902 \u090f\u0915 \u0924\u0928\u093e\u0935 $1 \\%$ \u0915\u0940 \u092a\u094d\u0930\u0924\u094d\u092f\u093e\u0938\u094d\u0925 \u0935\u093f\u0915\u0943\u0924\u093f",
+            "after_hyphen": false,
+            "confidence": 0.9931800193248225,
+            "confidence_rate": 0.9998603496902883
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1340,
+                    471
+                ],
+                [
+                    1340,
+                    394
+                ],
+                [
+                    2230,
+                    394
+                ],
+                [
+                    2230,
+                    471
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " \u0909\u0924\u094d\u092a\u0924\u094d\u0930 \u0915\u0930\u0924\u093e \u0939\u0948\u0964 \u092f\u0926\u093f \u0938\u094d\u091f\u0940\u0932 \u0915\u0947 \u0918\u0928\u0924\u094d\u0935 \u0914\u0930",
+            "after_hyphen": false,
+            "confidence": 0.8950851298679304,
+            "confidence_rate": 0.9974257273220338
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1338,
+                    556
+                ],
+                [
+                    1338,
+                    471
+                ],
+                [
+                    2233,
+                    474
+                ],
+                [
+                    2233,
+                    559
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " \u092a\u094d\u0930\u0924\u094d\u092f\u093e\u0938\u094d\u0925\u0924\u093e \u0917\u0941\u0923\u093e\u0902\u0915 \u0915\u094d\u0930\u092e\u0936\u0903 $7.7 \\times 10^{3} \\mathrm{~kg} / \\mathrm{m}^{3}$ \u0914\u0930",
+            "after_hyphen": false,
+            "confidence": 0.9878386606887947,
+            "confidence_rate": 0.9998252167982644
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1340,
+                    635
+                ],
+                [
+                    1340,
+                    548
+                ],
+                [
+                    2230,
+                    548
+                ],
+                [
+                    2230,
+                    635
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " $2.2 \\times 10^{11} \\mathrm{~N} / \\mathrm{m}^{2}$ \u0939\u0948\u0902 \u0924\u092c \u0938\u094d\u091f\u0940\u0932 \u0915\u0947 \u0924\u093e\u0930 \u0915\u0940 \u092e\u0942\u0932",
+            "after_hyphen": false,
+            "confidence": 0.9747714881316537,
+            "confidence_rate": 0.99959449165978
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1343,
+                    711
+                ],
+                [
+                    1343,
+                    626
+                ],
+                [
+                    1625,
+                    626
+                ],
+                [
+                    1625,
+                    711
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " \u0906\u0935\u0943\u0924\u094d\u0924\u093f \u0915\u094d\u092f\u093e \u0939\u0948 ?",
+            "after_hyphen": false,
+            "confidence": 0.994140625,
+            "confidence_rate": 0.9997329171053072
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1342,
+                    898
+                ],
+                [
+                    1342,
+                    821
+                ],
+                [
+                    1670,
+                    821
+                ],
+                [
+                    1670,
+                    898
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n(1) 188.5 Hz",
+            "after_hyphen": false,
+            "confidence": 0.9799900054931641,
+            "confidence_rate": 0.9988776910466417
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1282,
+                    1090
+                ],
+                [
+                    1282,
+                    1008
+                ],
+                [
+                    1670,
+                    1008
+                ],
+                [
+                    1670,
+                    1090
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n- (2) 178.2 Hz",
+            "after_hyphen": false,
+            "confidence": 0.9378922164540595,
+            "confidence_rate": 0.9967991215489137
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1342,
+                    1275
+                ],
+                [
+                    1342,
+                    1201
+                ],
+                [
+                    1670,
+                    1201
+                ],
+                [
+                    1670,
+                    1275
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n(3) 200.5 Hz",
+            "after_hyphen": false,
+            "confidence": 0.9878041717456654,
+            "confidence_rate": 0.9993185207783496
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1338,
+                    1465
+                ],
+                [
+                    1338,
+                    1388
+                ],
+                [
+                    1631,
+                    1388
+                ],
+                [
+                    1631,
+                    1465
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n(4) 770 Hz",
+            "after_hyphen": false,
+            "confidence": 0.9985356330871582,
+            "confidence_rate": 0.9999084141851159
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1219,
+                    1839
+                ],
+                [
+                    1219,
+                    1754
+                ],
+                [
+                    2226,
+                    1754
+                ],
+                [
+                    2226,
+                    1839
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n9. \u0924\u094d\u0930\u093f\u091c\u094d\u092f\u093e 0.3 cm \u0915\u093e \u090f\u0915 \u0935\u0943\u0924\u094d\u0924\u0940\u092f \u0932\u0942\u092a \u090f\u0915 \u0915\u093e\u092b\u0940 \u092c\u0921\u093c\u0947",
+            "after_hyphen": false,
+            "confidence": 0.6911019313773453,
+            "confidence_rate": 0.9937573978150754
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1335,
+                    1911
+                ],
+                [
+                    1335,
+                    1835
+                ],
+                [
+                    2225,
+                    1835
+                ],
+                [
+                    2225,
+                    1911
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " \u0924\u094d\u0930\u093f\u091c\u094d\u092f\u093e 20 cm \u0915\u0947 \u0935\u0943\u0924\u094d\u0924\u0940\u092f \u0932\u0942\u092a \u0915\u0947 \u0938\u092e\u093e\u0928\u094d\u0924\u0930 \u0930\u0916\u093e \u0939\u0948\u0964",
+            "after_hyphen": false,
+            "confidence": 0.9661811928466318,
+            "confidence_rate": 0.9994070053370097
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1336,
+                    1992
+                ],
+                [
+                    1336,
+                    1907
+                ],
+                [
+                    2223,
+                    1907
+                ],
+                [
+                    2223,
+                    1992
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " \u091b\u094b\u091f\u0947 \u0932\u0942\u092a \u0915\u093e \u0915\u0947\u0928\u094d\u0926\u094d\u0930 \u092c\u0921\u093c\u0947 \u0932\u0942\u092a \u0915\u0940 \u0905\u0915\u094d\u0937 \u092a\u0930 \u0939\u0948\u0964 \u0909\u0928\u0915\u0947",
+            "after_hyphen": false,
+            "confidence": 0.9580534742487793,
+            "confidence_rate": 0.9991918044276653
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1336,
+                    2067
+                ],
+                [
+                    1336,
+                    1985
+                ],
+                [
+                    2223,
+                    1985
+                ],
+                [
+                    2223,
+                    2067
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " \u0915\u0947\u0928\u094d\u0926\u094d\u0930\u094b\u0902 \u0915\u0947 \u092c\u0940\u091a \u0926\u0942\u0930\u094b 15 cm \u0939\u0948\u0964 \u092f\u0926\u093f \u091b\u094b\u091f\u0947 \u0932\u0942\u092a \u0938\u0947",
+            "after_hyphen": false,
+            "confidence": 0.8739398365834616,
+            "confidence_rate": 0.9976388665630553
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1336,
+                    2145
+                ],
+                [
+                    1336,
+                    2061
+                ],
+                [
+                    2223,
+                    2061
+                ],
+                [
+                    2223,
+                    2145
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " 2.0 A \u0915\u0940 \u0927\u093e\u0930\u093e \u092a\u094d\u0930\u0935\u093e\u0939\u093f\u0924 \u0939\u094b\u0924\u0940 \u0939\u0948, \u0924\u092c \u092c\u0921\u093c\u0947 \u0932\u0942\u092a \u0938\u0947",
+            "after_hyphen": false,
+            "confidence": 0.9439546413613016,
+            "confidence_rate": 0.9988914386894119
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1335,
+                    2215
+                ],
+                [
+                    1335,
+                    2144
+                ],
+                [
+                    1699,
+                    2144
+                ],
+                [
+                    1699,
+                    2215
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " \u0938\u092e\u094d\u092c\u0926\u094d\u0927\u093f\u0924 \u092b\u094d\u0932\u0915\u094d\u0938 \u0939\u0948 :",
+            "after_hyphen": false,
+            "confidence": 0.9888154603152897,
+            "confidence_rate": 0.9995674952122183
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1338,
+                    2492
+                ],
+                [
+                    1338,
+                    2404
+                ],
+                [
+                    1806,
+                    2404
+                ],
+                [
+                    1806,
+                    2492
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n(1) $9.1 \\times 10^{-11}$ \u0935\u0947\u092c\u0930",
+            "after_hyphen": false,
+            "confidence": 1,
+            "confidence_rate": 1
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1335,
+                    2675
+                ],
+                [
+                    1335,
+                    2593
+                ],
+                [
+                    1765,
+                    2593
+                ],
+                [
+                    1765,
+                    2675
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n(2) $6 \\times 10^{-11}$ \u0935\u0947\u092c\u0930",
+            "after_hyphen": false,
+            "confidence": 1,
+            "confidence_rate": 1
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1338,
+                    2863
+                ],
+                [
+                    1338,
+                    2778
+                ],
+                [
+                    1806,
+                    2778
+                ],
+                [
+                    1806,
+                    2863
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n(3) $3.3 \\times 10^{-11}$ \u0935\u0947\u092c\u0930",
+            "after_hyphen": false,
+            "confidence": 1,
+            "confidence_rate": 1
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1336,
+                    3046
+                ],
+                [
+                    1337,
+                    2964
+                ],
+                [
+                    1780,
+                    2967
+                ],
+                [
+                    1780,
+                    3049
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n(4) $6.6 \\times 10^{-9}$ \u0935\u0947\u092c\u0930",
+            "after_hyphen": false,
+            "confidence": 0.99951171875,
+            "confidence_rate": 0.9999847376009058
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    185,
+                    3189
+                ],
+                [
+                    185,
+                    3109
+                ],
+                [
+                    396,
+                    3109
+                ],
+                [
+                    396,
+                    3189
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n\nP/Page 5",
+            "after_hyphen": false,
+            "confidence": 0.9704250205054513,
+            "confidence_rate": 0.9975013652987849
+        },
+        {
+            "type": "page_info",
+            "cnt": [
+                [
+                    623,
+                    3192
+                ],
+                [
+                    623,
+                    3109
+                ],
+                [
+                    1770,
+                    3107
+                ],
+                [
+                    1770,
+                    3189
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\nSPACE FOR ROUGH WORK / \u0930\u092b \u0915\u093e\u0930\u094d\u092f \u0915\u0947 \u0932\u093f\u090f \u091c\u0917\u0939",
+            "after_hyphen": false,
+            "confidence": 0.5486819628624744,
+            "confidence_rate": 0.9873102177086057
+        }
+    ],
+    "page_image_path": "exams/JEE_Main/2013/imgs/page_4.jpg",
+    "exam_name": "exams/JEE_Main/2013/Papers/jee-main-paper-1-2013-hindi-p"
+}

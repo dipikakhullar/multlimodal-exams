@@ -1,0 +1,1433 @@
+{
+    "request_id": "2024_12_29_7f75750ee98a567c28eag",
+    "version": "RSK-M135p3",
+    "image_width": 2480,
+    "image_height": 3505,
+    "is_printed": true,
+    "is_handwritten": false,
+    "auto_rotate_confidence": 0,
+    "auto_rotate_degrees": 0,
+    "confidence": 0.21120651808150626,
+    "confidence_rate": 0.9394873348120889,
+    "text": "PART A - PHYSICS\n1. A uniform cylinder of length $L$ and mass M having cross - sectional area A is suspended, with its length vertical, from a fixed point by a massless spring, such that it is half submerged in a liquid of density $\\sigma$ at equilibrium position. The extension $x_{0}$ of the spring when it is in equilibrium is :\n(1) $\\frac{\\mathrm{Mg}}{\\mathrm{k}}$\n(2) $\\frac{\\mathrm{Mg}}{\\mathrm{k}}\\left(1-\\frac{\\mathrm{LA} \\mathrm{\\sigma}}{\\mathrm{M}}\\right)$\n(3) $\\frac{\\mathrm{Mg}}{\\mathrm{k}}\\left(1-\\frac{\\mathrm{LA} \\sigma}{2 \\mathrm{M}}\\right)$\n(4) $\\frac{\\mathrm{Mg}}{\\mathrm{k}}\\left(1+\\frac{\\mathrm{LA} \\sigma}{\\mathrm{M}}\\right)$\n(Here k is spring constant)\n2. A metallic rod of length ' 1 ' is tied to a string of length 21 and made to rotate with angular speed $\\omega$ on a horizontal table with one end of the string fixed. If there is a vertical magnetic field ' $B$ ' in the region, the e.m.f. induced across the ends of the rod is:\n(1) $\\frac{2 B \\omega l^{2}}{2}$\n(2) $\\frac{\\left.3 B \\omega\\right|^{2}}{2}$\n(3) $\\frac{4 \\mathrm{~B} \\omega \\mathrm{l}^{2}}{2}$\n(4) $\\frac{5 B \\omega l^{2}}{2}$\n\n\u092d\u093e\u0917 A - \u092d\u094c\u0924\u093f\u0915 \u0935\u093f\u091c\u094d\u091e\u093e\u0928\n1. \u0932\u092e\u094d\u092c\u093e\u0908 L , \u0926\u094d\u0930\u0935\u094d\u092f\u092e\u093e\u0928 M \u0914\u0930 \u0905\u0928\u0941\u092a\u094d\u0930\u0938\u094d\u0925 \u092a\u0930\u093f\u091a\u094d\u091b\u0947\u0926 \u0915\u094d\u0937\u0947\u0924\u094d\u0930\u092b\u0932 $A$ \u0935\u093e\u0932\u0947 \u090f\u0915 \u0938\u092e\u093e\u0928 \u092c\u0947\u0932\u0928 \u0915\u094b \u0907\u0938\u0915\u0940 \u0932\u092e\u094d\u092c\u093e\u0908 \u090a\u0930\u094d\u0927\u094d\u0935\u093e\u0927\u0930 \u0930\u0916\u0924\u0947 \u0939\u0941\u090f \u090f\u0915 \u0926\u094d\u0930\u0935\u094d\u092f\u092e\u093e\u0928\u0935\u093f\u0939\u0940\u0928 \u0915\u092e\u093e\u0928\u0940 \u0926\u094d\u0935\u093e\u0930\u093e \u090f\u0915 \u0928\u093f\u092f\u0924 \u092c\u093f\u0902\u0926\u0941 \u0938\u0947 \u0907\u0938 \u092a\u094d\u0930\u0915\u093e\u0930 \u0932\u091f\u0915\u093e\u092f\u093e \u0917\u092f\u093e \u0939\u0948 \u0915\u093f \u0938\u093e\u092e\u094d\u092f\u093e\u0935\u0938\u094d\u0925\u093e \u0938\u094d\u0925\u093f\u0924\u093f \u092e\u0947\u0902 \u0907\u0938\u0915\u093e \u0906\u0927\u093e \u092d\u093e\u0917 \u0918\u0928\u0924\u094d\u0935 $\\sigma$ \u0915\u0947 \u0926\u094d\u0930\u0935 \u092e\u0947\u0902 \u0921\u0942\u092c\u093e \u0930\u0939\u0947\u0964 \u091c\u092c \u092f\u0939 \u0938\u093e\u092e\u094d\u092f\u093e\u0935\u0938\u094d\u0925\u093e \u092e\u0947\u0902 \u0939\u0948, \u0924\u092c \u0915\u092e\u093e\u0928\u0940 \u092e\u0947\u0902 \u0935\u093f\u0938\u094d\u0924\u093e\u0930 $x_{0}$ \u0939\u0948 :\n(1) $\\frac{\\mathrm{Mg}}{\\mathrm{k}}$\n(2) $\\frac{\\mathrm{Mg}}{\\mathrm{k}}\\left(1-\\frac{\\mathrm{LA} \\sigma}{\\mathrm{M}}\\right)$\n(3) $\\frac{\\mathrm{Mg}}{\\mathrm{k}}\\left(1-\\frac{\\mathrm{LA} \\sigma}{2 \\mathrm{M}}\\right)$\n(4) $\\frac{\\mathrm{Mg}}{\\mathrm{k}}\\left(1+\\frac{\\mathrm{LA} \\sigma}{\\mathrm{M}}\\right)$\n( \u092f\u0939\u093e\u0901 $k$ \u0915\u092e\u093e\u0928\u0940 \u0938\u094d\u0925\u093f\u0930\u093e\u0902\u0915 \u0939\u0948\u0964)\n2. \u0932\u092e\u094d\u092c\u093e\u0908 ' 1 ' \u0915\u0940 \u090f\u0915 \u0927\u093e\u0924\u0941 \u0915\u0940 \u091b\u0921\u093c \u0932\u092e\u094d\u092c\u093e\u0908 21 \u0915\u0940 \u090f\u0915 \u0921\u094b\u0930\u0940 \u0938\u0947 \u092c\u0901\u0927\u0940 \u0939\u0948 \u0914\u0930 \u0921\u094b\u0930\u0940 \u0915\u0947 \u090f\u0915 \u0938\u093f\u0930\u0947 \u0915\u094b \u0938\u094d\u0925\u093f\u0930 \u0930\u0916 \u0915\u0930 \u0907\u0938\u0947 \u0915\u094b\u0923\u0940\u092f \u091a\u093e\u0932 $\\omega$ \u0938\u0947 \u0918\u0942\u0930\u094d\u0923\u093f\u0924 \u0915\u093f\u092f\u093e \u091c\u093e\u0924\u093e \u0939\u0948\u0964 \u092f\u0926\u093f \u0915\u094d\u0937\u0947\u0924\u094d\u0930 \u092e\u0947\u0902 \u090f\u0915 \u090a\u0930\u094d\u0927\u094d\u0935\u093e\u0927\u0930 \u091a\u0941\u092e\u094d\u092c\u0915\u0940\u092f \u0915\u094d\u0937\u0947\u0924\u094d\u0930 ' $B$ ' \u0939\u0948, \u0924\u092c \u091b\u0921\u093c \u0915\u0947 \u0938\u093f\u0930\u094b\u0902 \u092a\u0930 \u092a\u094d\u0930\u0947\u0930\u093f\u0924 \u0935\u093f\u0926\u094d\u092f\u0941\u0924 \u0935\u093e\u0939\u0915 \u092c\u0932 \u0939\u0948 :\n(1) $\\frac{2 B \\omega \\mathrm{I}^{2}}{2}$.\n(2) $\\frac{3 \\mathrm{~B} \\omega \\mathrm{l}^{2}}{2}$\n(3) $\\frac{4 B \\omega l^{2}}{2}$\n(4) $\\frac{5 B \\omega l^{2}}{2}$\n\nP/Page 2 SPACE FOR ROUGH WORK / \u0930\u092b \u0915\u093e\u0930\u094d\u092f \u0915\u0947 \u0932\u093f\u090f \u091c\u0917\u0939",
+    "line_data": [
+        {
+            "type": "column",
+            "cnt": [
+                [
+                    113,
+                    171
+                ],
+                [
+                    1137,
+                    171
+                ],
+                [
+                    1137,
+                    3059
+                ],
+                [
+                    113,
+                    3059
+                ]
+            ],
+            "included": false,
+            "is_printed": true,
+            "is_handwritten": false,
+            "error_id": "image_not_supported"
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    383,
+                    265
+                ],
+                [
+                    381,
+                    191
+                ],
+                [
+                    866,
+                    179
+                ],
+                [
+                    867,
+                    253
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "PART A - PHYSICS",
+            "after_hyphen": false,
+            "confidence": 0.9859076389819119,
+            "confidence_rate": 0.9993243901748221
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    128,
+                    364
+                ],
+                [
+                    127,
+                    287
+                ],
+                [
+                    1120,
+                    266
+                ],
+                [
+                    1122,
+                    343
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n1. A uniform cylinder of length $L$ and mass",
+            "after_hyphen": false,
+            "confidence": 0.9970715045928955,
+            "confidence_rate": 0.9999413458834223
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    247,
+                    432
+                ],
+                [
+                    246,
+                    350
+                ],
+                [
+                    1123,
+                    346
+                ],
+                [
+                    1123,
+                    428
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " M having cross - sectional area A is",
+            "after_hyphen": false,
+            "confidence": 0.923673414225858,
+            "confidence_rate": 0.9983809708679869
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    247,
+                    511
+                ],
+                [
+                    246,
+                    435
+                ],
+                [
+                    1122,
+                    420
+                ],
+                [
+                    1123,
+                    496
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " suspended, with its length vertical, from a",
+            "after_hyphen": false,
+            "confidence": 0.9912216663360596,
+            "confidence_rate": 0.9998163274904123
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    245,
+                    588
+                ],
+                [
+                    245,
+                    509
+                ],
+                [
+                    1124,
+                    502
+                ],
+                [
+                    1124,
+                    581
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " fixed point by a massless spring, such that",
+            "after_hyphen": false,
+            "confidence": 0.9980480668600649,
+            "confidence_rate": 0.9999592958150203
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    244,
+                    661
+                ],
+                [
+                    243,
+                    588
+                ],
+                [
+                    1125,
+                    582
+                ],
+                [
+                    1126,
+                    656
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " it is half submerged in a liquid of density $\\sigma$",
+            "after_hyphen": false,
+            "confidence": 0.9965853681787848,
+            "confidence_rate": 0.9999301968244829
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    245,
+                    741
+                ],
+                [
+                    245,
+                    659
+                ],
+                [
+                    1124,
+                    655
+                ],
+                [
+                    1124,
+                    738
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " at equilibrium position. The extension $x_{0}$",
+            "after_hyphen": false,
+            "confidence": 0.99951171875,
+            "confidence_rate": 0.9999906077268363
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    245,
+                    815
+                ],
+                [
+                    245,
+                    741
+                ],
+                [
+                    1113,
+                    741
+                ],
+                [
+                    1113,
+                    815
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " of the spring when it is in equilibrium is :",
+            "after_hyphen": false,
+            "confidence": 0.711082895621984,
+            "confidence_rate": 0.9930656590494108
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    248,
+                    957
+                ],
+                [
+                    248,
+                    817
+                ],
+                [
+                    475,
+                    817
+                ],
+                [
+                    475,
+                    957
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n(1) $\\frac{\\mathrm{Mg}}{\\mathrm{k}}$",
+            "after_hyphen": false,
+            "confidence": 0.983915785101373,
+            "confidence_rate": 0.999263227466681
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    247,
+                    1112
+                ],
+                [
+                    246,
+                    956
+                ],
+                [
+                    733,
+                    952
+                ],
+                [
+                    734,
+                    1108
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n(2) $\\frac{\\mathrm{Mg}}{\\mathrm{k}}\\left(1-\\frac{\\mathrm{LA} \\mathrm{\\sigma}}{\\mathrm{M}}\\right)$",
+            "after_hyphen": false,
+            "confidence": 0.563825905781415,
+            "confidence_rate": 0.9861213611432863
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    246,
+                    1258
+                ],
+                [
+                    246,
+                    1108
+                ],
+                [
+                    734,
+                    1108
+                ],
+                [
+                    734,
+                    1258
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n(3) $\\frac{\\mathrm{Mg}}{\\mathrm{k}}\\left(1-\\frac{\\mathrm{LA} \\sigma}{2 \\mathrm{M}}\\right)$",
+            "after_hyphen": false,
+            "confidence": 0.7554432568791081,
+            "confidence_rate": 0.9933448488658265
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    242,
+                    1402
+                ],
+                [
+                    242,
+                    1254
+                ],
+                [
+                    732,
+                    1254
+                ],
+                [
+                    732,
+                    1402
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n(4) $\\frac{\\mathrm{Mg}}{\\mathrm{k}}\\left(1+\\frac{\\mathrm{LA} \\sigma}{\\mathrm{M}}\\right)$",
+            "after_hyphen": false,
+            "confidence": 0.9154621815605374,
+            "confidence_rate": 0.9978480206695863
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    360,
+                    1481
+                ],
+                [
+                    360,
+                    1399
+                ],
+                [
+                    932,
+                    1399
+                ],
+                [
+                    932,
+                    1481
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n(Here k is spring constant)",
+            "after_hyphen": false,
+            "confidence": 0.984953598852588,
+            "confidence_rate": 0.9996011125587702
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    122,
+                    1568
+                ],
+                [
+                    122,
+                    1488
+                ],
+                [
+                    1127,
+                    1488
+                ],
+                [
+                    1127,
+                    1568
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n2. A metallic rod of length ' 1 ' is tied to a string",
+            "after_hyphen": false,
+            "confidence": 0.6782145632838276,
+            "confidence_rate": 0.9936547807938334
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    241,
+                    1642
+                ],
+                [
+                    241,
+                    1565
+                ],
+                [
+                    1128,
+                    1562
+                ],
+                [
+                    1128,
+                    1639
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " of length 21 and made to rotate with",
+            "after_hyphen": false,
+            "confidence": 0.94873046875,
+            "confidence_rate": 0.9988045665373159
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    241,
+                    1720
+                ],
+                [
+                    241,
+                    1640
+                ],
+                [
+                    1128,
+                    1637
+                ],
+                [
+                    1128,
+                    1717
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " angular speed $\\omega$ on a horizontal table with",
+            "after_hyphen": false,
+            "confidence": 0.99951171875,
+            "confidence_rate": 0.9999902320377447
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    241,
+                    1799
+                ],
+                [
+                    241,
+                    1720
+                ],
+                [
+                    1128,
+                    1717
+                ],
+                [
+                    1128,
+                    1796
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " one end of the string fixed. If there is a",
+            "after_hyphen": false,
+            "confidence": 0.99951171875,
+            "confidence_rate": 0.9999896085540317
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    244,
+                    1870
+                ],
+                [
+                    244,
+                    1794
+                ],
+                [
+                    1125,
+                    1794
+                ],
+                [
+                    1125,
+                    1870
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " vertical magnetic field ' $B$ ' in the region, the",
+            "after_hyphen": false,
+            "confidence": 0.9858760440470687,
+            "confidence_rate": 0.9997460206821551
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    244,
+                    1947
+                ],
+                [
+                    244,
+                    1873
+                ],
+                [
+                    1125,
+                    1870
+                ],
+                [
+                    1126,
+                    1944
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " e.m.f. induced across the ends of the rod",
+            "after_hyphen": false,
+            "confidence": 1,
+            "confidence_rate": 1
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    242,
+                    2013
+                ],
+                [
+                    242,
+                    1952
+                ],
+                [
+                    327,
+                    1952
+                ],
+                [
+                    327,
+                    2013
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " is:",
+            "after_hyphen": false,
+            "confidence": 0.6069143947378971,
+            "confidence_rate": 0.9394873348120889
+        },
+        {
+            "type": "diagram",
+            "cnt": [
+                [
+                    241,
+                    2425
+                ],
+                [
+                    241,
+                    2022
+                ],
+                [
+                    772,
+                    2022
+                ],
+                [
+                    772,
+                    2425
+                ]
+            ],
+            "included": false,
+            "is_printed": true,
+            "is_handwritten": false,
+            "error_id": "image_not_supported"
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    245,
+                    2582
+                ],
+                [
+                    245,
+                    2423
+                ],
+                [
+                    533,
+                    2423
+                ],
+                [
+                    533,
+                    2582
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n(1) $\\frac{2 B \\omega l^{2}}{2}$",
+            "after_hyphen": false,
+            "confidence": 0.6132577520125522,
+            "confidence_rate": 0.9813692027708432
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    247,
+                    2737
+                ],
+                [
+                    246,
+                    2584
+                ],
+                [
+                    530,
+                    2581
+                ],
+                [
+                    532,
+                    2734
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n(2) $\\frac{\\left.3 B \\omega\\right|^{2}}{2}$",
+            "after_hyphen": false,
+            "confidence": 0.21120651808150626,
+            "confidence_rate": 0.9419485989642365
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    242,
+                    2890
+                ],
+                [
+                    242,
+                    2740
+                ],
+                [
+                    524,
+                    2740
+                ],
+                [
+                    524,
+                    2890
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n(3) $\\frac{4 \\mathrm{~B} \\omega \\mathrm{l}^{2}}{2}$",
+            "after_hyphen": false,
+            "confidence": 0.748273711099052,
+            "confidence_rate": 0.9909788604877464
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    241,
+                    3050
+                ],
+                [
+                    241,
+                    2892
+                ],
+                [
+                    526,
+                    2892
+                ],
+                [
+                    526,
+                    3050
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n(4) $\\frac{5 B \\omega l^{2}}{2}$",
+            "after_hyphen": false,
+            "confidence": 0.7920938323493375,
+            "confidence_rate": 0.9910756215959591
+        },
+        {
+            "type": "column",
+            "cnt": [
+                [
+                    1145,
+                    163
+                ],
+                [
+                    2174,
+                    163
+                ],
+                [
+                    2174,
+                    3055
+                ],
+                [
+                    1145,
+                    3055
+                ]
+            ],
+            "included": false,
+            "is_printed": true,
+            "is_handwritten": false,
+            "error_id": "image_not_supported"
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1425,
+                    256
+                ],
+                [
+                    1425,
+                    171
+                ],
+                [
+                    1904,
+                    171
+                ],
+                [
+                    1904,
+                    256
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n\n\u092d\u093e\u0917 A - \u092d\u094c\u0924\u093f\u0915 \u0935\u093f\u091c\u094d\u091e\u093e\u0928",
+            "after_hyphen": false,
+            "confidence": 0.6886524053099534,
+            "confidence_rate": 0.9884108455543623
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1154,
+                    351
+                ],
+                [
+                    1154,
+                    258
+                ],
+                [
+                    2164,
+                    252
+                ],
+                [
+                    2165,
+                    345
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n1. \u0932\u092e\u094d\u092c\u093e\u0908 L , \u0926\u094d\u0930\u0935\u094d\u092f\u092e\u093e\u0928 M \u0914\u0930 \u0905\u0928\u0941\u092a\u094d\u0930\u0938\u094d\u0925 \u092a\u0930\u093f\u091a\u094d\u091b\u0947\u0926",
+            "after_hyphen": false,
+            "confidence": 0.9348549578354945,
+            "confidence_rate": 0.9989479930128076
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1275,
+                    419
+                ],
+                [
+                    1275,
+                    337
+                ],
+                [
+                    2165,
+                    337
+                ],
+                [
+                    2165,
+                    419
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " \u0915\u094d\u0937\u0947\u0924\u094d\u0930\u092b\u0932 $A$ \u0935\u093e\u0932\u0947 \u090f\u0915 \u0938\u092e\u093e\u0928 \u092c\u0947\u0932\u0928 \u0915\u094b \u0907\u0938\u0915\u0940 \u0932\u092e\u094d\u092c\u093e\u0908",
+            "after_hyphen": false,
+            "confidence": 0.813657954800874,
+            "confidence_rate": 0.9960421759083611
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1275,
+                    497
+                ],
+                [
+                    1275,
+                    412
+                ],
+                [
+                    2165,
+                    412
+                ],
+                [
+                    2165,
+                    497
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " \u090a\u0930\u094d\u0927\u094d\u0935\u093e\u0927\u0930 \u0930\u0916\u0924\u0947 \u0939\u0941\u090f \u090f\u0915 \u0926\u094d\u0930\u0935\u094d\u092f\u092e\u093e\u0928\u0935\u093f\u0939\u0940\u0928 \u0915\u092e\u093e\u0928\u0940 \u0926\u094d\u0935\u093e\u0930\u093e",
+            "after_hyphen": false,
+            "confidence": 0.6403760717775451,
+            "confidence_rate": 0.9917802707782046
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1275,
+                    574
+                ],
+                [
+                    1275,
+                    489
+                ],
+                [
+                    2165,
+                    489
+                ],
+                [
+                    2165,
+                    574
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " \u090f\u0915 \u0928\u093f\u092f\u0924 \u092c\u093f\u0902\u0926\u0941 \u0938\u0947 \u0907\u0938 \u092a\u094d\u0930\u0915\u093e\u0930 \u0932\u091f\u0915\u093e\u092f\u093e \u0917\u092f\u093e \u0939\u0948 \u0915\u093f",
+            "after_hyphen": false,
+            "confidence": 0.998535871389322,
+            "confidence_rate": 0.9999694754347522
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1273,
+                    648
+                ],
+                [
+                    1273,
+                    568
+                ],
+                [
+                    2166,
+                    568
+                ],
+                [
+                    2166,
+                    648
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " \u0938\u093e\u092e\u094d\u092f\u093e\u0935\u0938\u094d\u0925\u093e \u0938\u094d\u0925\u093f\u0924\u093f \u092e\u0947\u0902 \u0907\u0938\u0915\u093e \u0906\u0927\u093e \u092d\u093e\u0917 \u0918\u0928\u0924\u094d\u0935 $\\sigma$ \u0915\u0947",
+            "after_hyphen": false,
+            "confidence": 0.998535871389322,
+            "confidence_rate": 0.9999728670071003
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1275,
+                    728
+                ],
+                [
+                    1275,
+                    646
+                ],
+                [
+                    2165,
+                    646
+                ],
+                [
+                    2165,
+                    728
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " \u0926\u094d\u0930\u0935 \u092e\u0947\u0902 \u0921\u0942\u092c\u093e \u0930\u0939\u0947\u0964 \u091c\u092c \u092f\u0939 \u0938\u093e\u092e\u094d\u092f\u093e\u0935\u0938\u094d\u0925\u093e \u092e\u0947\u0902 \u0939\u0948, \u0924\u092c",
+            "after_hyphen": false,
+            "confidence": 0.9484345521356031,
+            "confidence_rate": 0.9989823932396977
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1276,
+                    812
+                ],
+                [
+                    1276,
+                    722
+                ],
+                [
+                    1703,
+                    722
+                ],
+                [
+                    1703,
+                    812
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " \u0915\u092e\u093e\u0928\u0940 \u092e\u0947\u0902 \u0935\u093f\u0938\u094d\u0924\u093e\u0930 $x_{0}$ \u0939\u0948 :",
+            "after_hyphen": false,
+            "confidence": 0.9946401001718622,
+            "confidence_rate": 0.9998656511349726
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1279,
+                    957
+                ],
+                [
+                    1279,
+                    817
+                ],
+                [
+                    1509,
+                    817
+                ],
+                [
+                    1509,
+                    957
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n(1) $\\frac{\\mathrm{Mg}}{\\mathrm{k}}$",
+            "after_hyphen": false,
+            "confidence": 0.9922067904964786,
+            "confidence_rate": 0.9996444388968426
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1279,
+                    1108
+                ],
+                [
+                    1279,
+                    952
+                ],
+                [
+                    1777,
+                    952
+                ],
+                [
+                    1777,
+                    1108
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n(2) $\\frac{\\mathrm{Mg}}{\\mathrm{k}}\\left(1-\\frac{\\mathrm{LA} \\sigma}{\\mathrm{M}}\\right)$",
+            "after_hyphen": false,
+            "confidence": 0.9709475041916362,
+            "confidence_rate": 0.9992811639546412
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1273,
+                    1258
+                ],
+                [
+                    1273,
+                    1108
+                ],
+                [
+                    1772,
+                    1108
+                ],
+                [
+                    1772,
+                    1258
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n(3) $\\frac{\\mathrm{Mg}}{\\mathrm{k}}\\left(1-\\frac{\\mathrm{LA} \\sigma}{2 \\mathrm{M}}\\right)$",
+            "after_hyphen": false,
+            "confidence": 0.9868872502123932,
+            "confidence_rate": 0.9996857760235912
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1279,
+                    1398
+                ],
+                [
+                    1279,
+                    1253
+                ],
+                [
+                    1772,
+                    1253
+                ],
+                [
+                    1772,
+                    1398
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n(4) $\\frac{\\mathrm{Mg}}{\\mathrm{k}}\\left(1+\\frac{\\mathrm{LA} \\sigma}{\\mathrm{M}}\\right)$",
+            "after_hyphen": false,
+            "confidence": 0.7046340996524056,
+            "confidence_rate": 0.991497894961343
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1392,
+                    1479
+                ],
+                [
+                    1392,
+                    1391
+                ],
+                [
+                    1915,
+                    1391
+                ],
+                [
+                    1915,
+                    1479
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n( \u092f\u0939\u093e\u0901 $k$ \u0915\u092e\u093e\u0928\u0940 \u0938\u094d\u0925\u093f\u0930\u093e\u0902\u0915 \u0939\u0948\u0964)",
+            "after_hyphen": false,
+            "confidence": 0.6920923835787223,
+            "confidence_rate": 0.9898288619638783
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1160,
+                    1559
+                ],
+                [
+                    1160,
+                    1472
+                ],
+                [
+                    2165,
+                    1475
+                ],
+                [
+                    2164,
+                    1562
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n2. \u0932\u092e\u094d\u092c\u093e\u0908 ' 1 ' \u0915\u0940 \u090f\u0915 \u0927\u093e\u0924\u0941 \u0915\u0940 \u091b\u0921\u093c \u0932\u092e\u094d\u092c\u093e\u0908 21 \u0915\u0940 \u090f\u0915",
+            "after_hyphen": false,
+            "confidence": 0.7392764242375912,
+            "confidence_rate": 0.9949779300366899
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1271,
+                    1636
+                ],
+                [
+                    1271,
+                    1551
+                ],
+                [
+                    2163,
+                    1551
+                ],
+                [
+                    2163,
+                    1636
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " \u0921\u094b\u0930\u0940 \u0938\u0947 \u092c\u0901\u0927\u0940 \u0939\u0948 \u0914\u0930 \u0921\u094b\u0930\u0940 \u0915\u0947 \u090f\u0915 \u0938\u093f\u0930\u0947 \u0915\u094b \u0938\u094d\u0925\u093f\u0930 \u0930\u0916",
+            "after_hyphen": false,
+            "confidence": 0.9704522147525513,
+            "confidence_rate": 0.999412072596171
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1273,
+                    1713
+                ],
+                [
+                    1273,
+                    1628
+                ],
+                [
+                    2166,
+                    1628
+                ],
+                [
+                    2166,
+                    1713
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " \u0915\u0930 \u0907\u0938\u0947 \u0915\u094b\u0923\u0940\u092f \u091a\u093e\u0932 $\\omega$ \u0938\u0947 \u0918\u0942\u0930\u094d\u0923\u093f\u0924 \u0915\u093f\u092f\u093e \u091c\u093e\u0924\u093e \u0939\u0948\u0964",
+            "after_hyphen": false,
+            "confidence": 0.9873442156536413,
+            "confidence_rate": 0.9997502948883398
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1273,
+                    1792
+                ],
+                [
+                    1273,
+                    1702
+                ],
+                [
+                    2166,
+                    1702
+                ],
+                [
+                    2166,
+                    1792
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " \u092f\u0926\u093f \u0915\u094d\u0937\u0947\u0924\u094d\u0930 \u092e\u0947\u0902 \u090f\u0915 \u090a\u0930\u094d\u0927\u094d\u0935\u093e\u0927\u0930 \u091a\u0941\u092e\u094d\u092c\u0915\u0940\u092f \u0915\u094d\u0937\u0947\u0924\u094d\u0930 ' $B$ ' \u0939\u0948, \u0924\u092c",
+            "after_hyphen": false,
+            "confidence": 0.4525819887659895,
+            "confidence_rate": 0.9880599407820042
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1275,
+                    1870
+                ],
+                [
+                    1275,
+                    1783
+                ],
+                [
+                    2033,
+                    1783
+                ],
+                [
+                    2033,
+                    1870
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " \u091b\u0921\u093c \u0915\u0947 \u0938\u093f\u0930\u094b\u0902 \u092a\u0930 \u092a\u094d\u0930\u0947\u0930\u093f\u0924 \u0935\u093f\u0926\u094d\u092f\u0941\u0924 \u0935\u093e\u0939\u0915 \u092c\u0932 \u0939\u0948 :",
+            "after_hyphen": false,
+            "confidence": 0.9665502229425367,
+            "confidence_rate": 0.999305914092072
+        },
+        {
+            "type": "diagram",
+            "cnt": [
+                [
+                    1269,
+                    2427
+                ],
+                [
+                    1269,
+                    2019
+                ],
+                [
+                    1809,
+                    2019
+                ],
+                [
+                    1809,
+                    2427
+                ]
+            ],
+            "included": false,
+            "is_printed": true,
+            "is_handwritten": false,
+            "error_id": "image_not_supported"
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1276,
+                    2577
+                ],
+                [
+                    1274,
+                    2427
+                ],
+                [
+                    1561,
+                    2423
+                ],
+                [
+                    1563,
+                    2573
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n(1) $\\frac{2 B \\omega \\mathrm{I}^{2}}{2}$.",
+            "after_hyphen": false,
+            "confidence": 0.30687751332549223,
+            "confidence_rate": 0.9668116145128495
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1276,
+                    2733
+                ],
+                [
+                    1276,
+                    2579
+                ],
+                [
+                    1561,
+                    2579
+                ],
+                [
+                    1561,
+                    2733
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n(2) $\\frac{3 \\mathrm{~B} \\omega \\mathrm{l}^{2}}{2}$",
+            "after_hyphen": false,
+            "confidence": 0.9215439849242804,
+            "confidence_rate": 0.9974499827338963
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1276,
+                    2889
+                ],
+                [
+                    1273,
+                    2736
+                ],
+                [
+                    1560,
+                    2730
+                ],
+                [
+                    1564,
+                    2883
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n(3) $\\frac{4 B \\omega l^{2}}{2}$",
+            "after_hyphen": false,
+            "confidence": 0.49451246435978646,
+            "confidence_rate": 0.9732795229582174
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1275,
+                    3046
+                ],
+                [
+                    1275,
+                    2890
+                ],
+                [
+                    1562,
+                    2890
+                ],
+                [
+                    1562,
+                    3046
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n(4) $\\frac{5 B \\omega l^{2}}{2}$",
+            "after_hyphen": false,
+            "confidence": 0.37280468003262346,
+            "confidence_rate": 0.9627610539498328
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    123,
+                    3136
+                ],
+                [
+                    123,
+                    3051
+                ],
+                [
+                    1711,
+                    3047
+                ],
+                [
+                    1712,
+                    3132
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n\nP/Page 2 SPACE FOR ROUGH WORK / \u0930\u092b \u0915\u093e\u0930\u094d\u092f \u0915\u0947 \u0932\u093f\u090f \u091c\u0917\u0939",
+            "after_hyphen": false,
+            "confidence": 0.7484532953278842,
+            "confidence_rate": 0.9951010818351808
+        }
+    ],
+    "page_image_path": "exams/JEE_Main/2013/imgs/page_1.jpg",
+    "exam_name": "exams/JEE_Main/2013/Papers/jee-main-paper-1-2013-hindi-p"
+}

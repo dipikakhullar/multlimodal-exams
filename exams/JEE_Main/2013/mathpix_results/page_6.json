@@ -1,0 +1,1215 @@
+{
+    "request_id": "2024_12_29_35d18fb28ec8d4a3ace7g",
+    "version": "RSK-M135p3",
+    "image_width": 2480,
+    "image_height": 3505,
+    "is_printed": true,
+    "is_handwritten": false,
+    "auto_rotate_confidence": 0,
+    "auto_rotate_degrees": 0,
+    "confidence": 0.29048752784729004,
+    "confidence_rate": 0.8138066763714349,
+    "text": "12. A diode detector is used to detect an amplitude modulated wave of $60 \\%$ modulation by using a condenser of capacity 250 pico farad in parallel with a load resistance 100 kilo ohm. Find the maximum modulated frequency which could be detected by it.\n(1) $\\quad 10.62 \\mathrm{MHz}$\n(2) 10.62 kHz\n(3) 5.31 MHz\n(4) 5.31 kHz\n\u092a\u0947\n\u092f\n\u3042\n13. A beam of unpolarised light of intensity $I_{0}$ is passed through a polaroid $A$ and then through another polaroid $B$ which is oriented so that its principal plane makes an angle of $45^{\\circ}$ relative to that of A . The intensity of the emergent light is :\n12. \u090f\u0915 \u0921\u093e\u092f\u094b\u0921 \u0938\u0902\u0938\u0942\u091a\u0915 \u0915\u094b, 250 \u092a\u093f\u0915\u094b \u092b\u0948\u0930\u093e\u0921 \u0935\u093e\u0932\u0947 \u0938\u0902\u0927\u093e\u0930\u093f\u0924\u094d\u0930 \u0915\u0947 100 \u0915\u093f\u0932\u094b \u0913\u0939\u092e \u0915\u0947 \u0932\u094b\u0921 \u092a\u094d\u0930\u0924\u093f\u0930\u094b\u0927 \u0915\u0947 \u0938\u093e\u0925 \u0938\u092e\u093e\u0928\u094d\u0924\u0930 \u0915\u094d\u0930\u092e \u092e\u0947\u0902 \u0932\u0917\u093e\u0915\u0930, $60 \\%$ \u092e\u093e\u0921\u0941\u0932\u0947\u0936\u0928 \u0935\u093e\u0932\u0940 \u0906\u092f\u093e\u092e \u092e\u093e\u0921\u0941\u0932\u0915 \u0924\u0930\u0902\u0917 \u0915\u093e \u092a\u0924\u093e \u0932\u0917\u093e\u0928\u0947 \u092e\u0947\u0902 \u092a\u094d\u0930\u092f\u0941\u0915\u094d\u0924 \u0915\u093f\u092f\u093e \u0917\u092f\u093e \u0939\u0948\u0964 \u0907\u0938\u0915\u0947 \u0926\u094d\u0935\u093e\u0930\u093e \u0905\u0927\u093f\u0915\u0924\u092e \u092e\u093e\u0921\u0941\u0932\u093f\u0924 \u0906\u0935\u0943\u0924\u094d\u0924\u093f \u091c\u093f\u0938\u0947 \u091c\u094d\u091e\u093e\u0924 \u0915\u093f\u092f\u093e \u091c\u093e \u0938\u0915\u0924\u093e \u0939\u0948 :\n(1) 10.62 MHz\n(2) 10.62 kHz\n(3) 5.31 MHz\n(4) 5.31 kHz\n13. \u090f\u0915 \u0924\u0940\u0935\u094d\u0930\u0924\u093e $\\mathrm{I}_{0}$ \u0915\u0940 \u0905\u0927\u094d\u0930\u0941\u0935\u093f\u0924 \u092a\u094d\u0930\u0915\u093e\u0936 \u0915\u093e \u092a\u0941\u0902\u091c \u090f\u0915 \u092a\u094b\u0932\u0930\u093e\u092f\u0921 A \u0938\u0947 \u0917\u0941\u091c\u093e\u0930\u093e \u091c\u093e\u0924\u093e \u0939\u0948 \u0914\u0930 \u092b\u093c\u0930 \u0909\u0938\u0947 \u090f\u0915 \u0926\u0942\u0938\u0930\u0947 \u092a\u094b\u0932\u0930\u093e\u092f\u0921 $B$ \u0938\u0947 \u0917\u0941\u091c\u093e\u0930\u093e \u091c\u093e\u0924\u093e \u0939\u0948\u0964 $B$ \u0915\u093e \u092e\u0941\u0916\u094d\u092f \u0924\u0932 A \u0915\u0947 \u092e\u0941\u0916\u094d\u092f \u0924\u0932 \u0938\u0947 $45^{\\circ}$ \u0915\u093e \u0915\u094b\u0923 \u092c\u0928\u093e\u0924\u093e \u0939\u0948\u0964 \u0928\u093f\u0930\u094d\u0917\u0924 \u092a\u094d\u0930\u0915\u093e\u0936 \u0915\u0940 \u0924\u0940\u0935\u094d\u0930\u0924\u093e \u0939\u0948 :\n(1) $\\mathrm{I}_{0}$\n(2) $\\mathrm{I}_{0} / 2$\n- (3) $\\mathrm{I}_{0} / 4$\n(4) $I_{0} / 8$\n\nP/Page 7\nSPACE FOR ROUGH WORK / \u0930\u092b \u0915\u093e\u0930\u094d\u092f \u0915\u0947 \u0932\u093f\u090f \u091c\u0917\u0939",
+    "line_data": [
+        {
+            "type": "column",
+            "cnt": [
+                [
+                    22,
+                    193
+                ],
+                [
+                    1242,
+                    193
+                ],
+                [
+                    1242,
+                    2279
+                ],
+                [
+                    22,
+                    2279
+                ]
+            ],
+            "included": false,
+            "is_printed": true,
+            "is_handwritten": false,
+            "error_id": "image_not_supported"
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    225,
+                    281
+                ],
+                [
+                    225,
+                    201
+                ],
+                [
+                    1227,
+                    201
+                ],
+                [
+                    1227,
+                    281
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "12. A diode detector is used to detect an",
+            "after_hyphen": false,
+            "confidence": 1,
+            "confidence_rate": 1
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    341,
+                    361
+                ],
+                [
+                    341,
+                    279
+                ],
+                [
+                    1225,
+                    279
+                ],
+                [
+                    1225,
+                    361
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " amplitude modulated wave of $60 \\%$",
+            "after_hyphen": false,
+            "confidence": 0.9990236759185791,
+            "confidence_rate": 0.9999720917895495
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    342,
+                    438
+                ],
+                [
+                    342,
+                    361
+                ],
+                [
+                    1229,
+                    361
+                ],
+                [
+                    1229,
+                    438
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " modulation by using a condenser of",
+            "after_hyphen": false,
+            "confidence": 0.9990236759185791,
+            "confidence_rate": 0.9999749541342627
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    342,
+                    516
+                ],
+                [
+                    342,
+                    437
+                ],
+                [
+                    1224,
+                    437
+                ],
+                [
+                    1224,
+                    516
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " capacity 250 pico farad in parallel with a",
+            "after_hyphen": false,
+            "confidence": 1,
+            "confidence_rate": 1
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    344,
+                    587
+                ],
+                [
+                    344,
+                    516
+                ],
+                [
+                    1233,
+                    513
+                ],
+                [
+                    1234,
+                    585
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " load resistance 100 kilo ohm. Find the",
+            "after_hyphen": false,
+            "confidence": 0.9518159748986363,
+            "confidence_rate": 0.9989270202602041
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    345,
+                    670
+                ],
+                [
+                    345,
+                    594
+                ],
+                [
+                    1227,
+                    589
+                ],
+                [
+                    1227,
+                    666
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " maximum modulated frequency which",
+            "after_hyphen": false,
+            "confidence": 0.9990234375,
+            "confidence_rate": 0.99997428876086
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    346,
+                    745
+                ],
+                [
+                    346,
+                    674
+                ],
+                [
+                    847,
+                    674
+                ],
+                [
+                    847,
+                    745
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " could be detected by it.",
+            "after_hyphen": false,
+            "confidence": 0.99951171875,
+            "confidence_rate": 0.9999831587453291
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    348,
+                    938
+                ],
+                [
+                    348,
+                    858
+                ],
+                [
+                    720,
+                    858
+                ],
+                [
+                    720,
+                    938
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n(1) $\\quad 10.62 \\mathrm{MHz}$",
+            "after_hyphen": false,
+            "confidence": 0.5468519926071167,
+            "confidence_rate": 0.9702719803529131
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    346,
+                    1128
+                ],
+                [
+                    346,
+                    1052
+                ],
+                [
+                    700,
+                    1052
+                ],
+                [
+                    700,
+                    1128
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n(2) 10.62 kHz",
+            "after_hyphen": false,
+            "confidence": 0.9609749226365238,
+            "confidence_rate": 0.997907089753947
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    350,
+                    1318
+                ],
+                [
+                    350,
+                    1245
+                ],
+                [
+                    696,
+                    1245
+                ],
+                [
+                    696,
+                    1318
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n(3) 5.31 MHz",
+            "after_hyphen": false,
+            "confidence": 0.9985356330871582,
+            "confidence_rate": 0.9999185899725354
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    352,
+                    1509
+                ],
+                [
+                    352,
+                    1432
+                ],
+                [
+                    678,
+                    1432
+                ],
+                [
+                    678,
+                    1509
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n(4) 5.31 kHz",
+            "after_hyphen": false,
+            "confidence": 0.998046875,
+            "confidence_rate": 0.9998913928517499
+        },
+        {
+            "type": "page_info",
+            "cnt": [
+                [
+                    31,
+                    1683
+                ],
+                [
+                    31,
+                    1614
+                ],
+                [
+                    89,
+                    1614
+                ],
+                [
+                    89,
+                    1683
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n\u092a\u0947",
+            "after_hyphen": false,
+            "confidence": 0.8318770252341778,
+            "confidence_rate": 0.9740469162168786
+        },
+        {
+            "type": "page_info",
+            "cnt": [
+                [
+                    30,
+                    1709
+                ],
+                [
+                    30,
+                    1766
+                ],
+                [
+                    88,
+                    1766
+                ],
+                [
+                    88,
+                    1709
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n\u092f",
+            "after_hyphen": false,
+            "confidence": 0.9960978019516915,
+            "confidence_rate": 0.9993485736890247
+        },
+        {
+            "type": "page_info",
+            "cnt": [
+                [
+                    33,
+                    1783
+                ],
+                [
+                    33,
+                    1840
+                ],
+                [
+                    88,
+                    1840
+                ],
+                [
+                    88,
+                    1783
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n\u3042",
+            "after_hyphen": false,
+            "confidence": 0.29048752784729004,
+            "confidence_rate": 0.8138066763714349
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    234,
+                    1891
+                ],
+                [
+                    234,
+                    1811
+                ],
+                [
+                    1234,
+                    1811
+                ],
+                [
+                    1234,
+                    1891
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n13. A beam of unpolarised light of intensity $I_{0}$",
+            "after_hyphen": false,
+            "confidence": 0.9697265625,
+            "confidence_rate": 0.999470120753649
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    349,
+                    1967
+                ],
+                [
+                    349,
+                    1888
+                ],
+                [
+                    1228,
+                    1888
+                ],
+                [
+                    1228,
+                    1967
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " is passed through a polaroid $A$ and then",
+            "after_hyphen": false,
+            "confidence": 0.5033446038141847,
+            "confidence_rate": 0.9855001869491973
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    352,
+                    2041
+                ],
+                [
+                    352,
+                    1967
+                ],
+                [
+                    1225,
+                    1967
+                ],
+                [
+                    1225,
+                    2041
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " through another polaroid $B$ which is",
+            "after_hyphen": false,
+            "confidence": 0.5845823835070405,
+            "confidence_rate": 0.9875925554521985
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    349,
+                    2117
+                ],
+                [
+                    349,
+                    2040
+                ],
+                [
+                    1228,
+                    2040
+                ],
+                [
+                    1228,
+                    2117
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " oriented so that its principal plane makes",
+            "after_hyphen": false,
+            "confidence": 1,
+            "confidence_rate": 1
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    349,
+                    2191
+                ],
+                [
+                    349,
+                    2119
+                ],
+                [
+                    1228,
+                    2119
+                ],
+                [
+                    1228,
+                    2191
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " an angle of $45^{\\circ}$ relative to that of A . The",
+            "after_hyphen": false,
+            "confidence": 0.9154153326109327,
+            "confidence_rate": 0.9986200561045072
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    352,
+                    2270
+                ],
+                [
+                    352,
+                    2193
+                ],
+                [
+                    1061,
+                    2193
+                ],
+                [
+                    1061,
+                    2270
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " intensity of the emergent light is :",
+            "after_hyphen": false,
+            "confidence": 0.8706684112548828,
+            "confidence_rate": 0.9966277944680052
+        },
+        {
+            "type": "column",
+            "cnt": [
+                [
+                    1255,
+                    187
+                ],
+                [
+                    2283,
+                    187
+                ],
+                [
+                    2283,
+                    3030
+                ],
+                [
+                    1255,
+                    3030
+                ]
+            ],
+            "included": false,
+            "is_printed": true,
+            "is_handwritten": false,
+            "error_id": "image_not_supported"
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1264,
+                    281
+                ],
+                [
+                    1264,
+                    199
+                ],
+                [
+                    2274,
+                    196
+                ],
+                [
+                    2274,
+                    278
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n12. \u090f\u0915 \u0921\u093e\u092f\u094b\u0921 \u0938\u0902\u0938\u0942\u091a\u0915 \u0915\u094b, 250 \u092a\u093f\u0915\u094b \u092b\u0948\u0930\u093e\u0921 \u0935\u093e\u0932\u0947 \u0938\u0902\u0927\u093e\u0930\u093f\u0924\u094d\u0930",
+            "after_hyphen": false,
+            "confidence": 0.9951240979141858,
+            "confidence_rate": 0.9999198748810277
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1380,
+                    349
+                ],
+                [
+                    1380,
+                    275
+                ],
+                [
+                    2273,
+                    275
+                ],
+                [
+                    2273,
+                    349
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " \u0915\u0947 100 \u0915\u093f\u0932\u094b \u0913\u0939\u092e \u0915\u0947 \u0932\u094b\u0921 \u092a\u094d\u0930\u0924\u093f\u0930\u094b\u0927 \u0915\u0947 \u0938\u093e\u0925 \u0938\u092e\u093e\u0928\u094d\u0924\u0930",
+            "after_hyphen": false,
+            "confidence": 0.9960982785560191,
+            "confidence_rate": 0.9999276071942559
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1380,
+                    433
+                ],
+                [
+                    1380,
+                    350
+                ],
+                [
+                    2267,
+                    350
+                ],
+                [
+                    2267,
+                    433
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " \u0915\u094d\u0930\u092e \u092e\u0947\u0902 \u0932\u0917\u093e\u0915\u0930, $60 \\%$ \u092e\u093e\u0921\u0941\u0932\u0947\u0936\u0928 \u0935\u093e\u0932\u0940 \u0906\u092f\u093e\u092e",
+            "after_hyphen": false,
+            "confidence": 0.9853777699232176,
+            "confidence_rate": 0.9996798297747463
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1380,
+                    508
+                ],
+                [
+                    1380,
+                    434
+                ],
+                [
+                    2273,
+                    434
+                ],
+                [
+                    2273,
+                    508
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " \u092e\u093e\u0921\u0941\u0932\u0915 \u0924\u0930\u0902\u0917 \u0915\u093e \u092a\u0924\u093e \u0932\u0917\u093e\u0928\u0947 \u092e\u0947\u0902 \u092a\u094d\u0930\u092f\u0941\u0915\u094d\u0924 \u0915\u093f\u092f\u093e \u0917\u092f\u093e \u0939\u0948\u0964",
+            "after_hyphen": false,
+            "confidence": 0.9951250501919731,
+            "confidence_rate": 0.9999111517447757
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1379,
+                    590
+                ],
+                [
+                    1379,
+                    505
+                ],
+                [
+                    2269,
+                    505
+                ],
+                [
+                    2269,
+                    590
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " \u0907\u0938\u0915\u0947 \u0926\u094d\u0935\u093e\u0930\u093e \u0905\u0927\u093f\u0915\u0924\u092e \u092e\u093e\u0921\u0941\u0932\u093f\u0924 \u0906\u0935\u0943\u0924\u094d\u0924\u093f \u091c\u093f\u0938\u0947 \u091c\u094d\u091e\u093e\u0924",
+            "after_hyphen": false,
+            "confidence": 1,
+            "confidence_rate": 1
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1380,
+                    656
+                ],
+                [
+                    1380,
+                    582
+                ],
+                [
+                    1736,
+                    582
+                ],
+                [
+                    1736,
+                    656
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " \u0915\u093f\u092f\u093e \u091c\u093e \u0938\u0915\u0924\u093e \u0939\u0948 :",
+            "after_hyphen": false,
+            "confidence": 0.9975605006329715,
+            "confidence_rate": 0.9998889843538856
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1386,
+                    937
+                ],
+                [
+                    1385,
+                    858
+                ],
+                [
+                    1758,
+                    854
+                ],
+                [
+                    1758,
+                    933
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n(1) 10.62 MHz",
+            "after_hyphen": false,
+            "confidence": 0.6778278661658987,
+            "confidence_rate": 0.9797415993582956
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1384,
+                    1120
+                ],
+                [
+                    1384,
+                    1049
+                ],
+                [
+                    1737,
+                    1049
+                ],
+                [
+                    1737,
+                    1120
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n(2) 10.62 kHz",
+            "after_hyphen": false,
+            "confidence": 0.9736454486846924,
+            "confidence_rate": 0.9985953002874436
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1386,
+                    1313
+                ],
+                [
+                    1386,
+                    1239
+                ],
+                [
+                    1736,
+                    1239
+                ],
+                [
+                    1736,
+                    1313
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n(3) 5.31 MHz",
+            "after_hyphen": false,
+            "confidence": 0.9985356330871582,
+            "confidence_rate": 0.9999185899725354
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1385,
+                    1511
+                ],
+                [
+                    1384,
+                    1429
+                ],
+                [
+                    1715,
+                    1424
+                ],
+                [
+                    1716,
+                    1507
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n(4) 5.31 kHz",
+            "after_hyphen": false,
+            "confidence": 0.99951171875,
+            "confidence_rate": 0.9999728670071003
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1265,
+                    1883
+                ],
+                [
+                    1265,
+                    1798
+                ],
+                [
+                    2273,
+                    1798
+                ],
+                [
+                    2273,
+                    1883
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n13. \u090f\u0915 \u0924\u0940\u0935\u094d\u0930\u0924\u093e $\\mathrm{I}_{0}$ \u0915\u0940 \u0905\u0927\u094d\u0930\u0941\u0935\u093f\u0924 \u092a\u094d\u0930\u0915\u093e\u0936 \u0915\u093e \u092a\u0941\u0902\u091c \u090f\u0915",
+            "after_hyphen": false,
+            "confidence": 0.9785642207290812,
+            "confidence_rate": 0.9996666884454639
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1384,
+                    1955
+                ],
+                [
+                    1384,
+                    1878
+                ],
+                [
+                    2274,
+                    1878
+                ],
+                [
+                    2274,
+                    1955
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " \u092a\u094b\u0932\u0930\u093e\u092f\u0921 A \u0938\u0947 \u0917\u0941\u091c\u093e\u0930\u093e \u091c\u093e\u0924\u093e \u0939\u0948 \u0914\u0930 \u092b\u093c\u0930 \u0909\u0938\u0947 \u090f\u0915",
+            "after_hyphen": false,
+            "confidence": 0.37076918154915744,
+            "confidence_rate": 0.9811005774174226
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1384,
+                    2033
+                ],
+                [
+                    1384,
+                    1948
+                ],
+                [
+                    2274,
+                    1948
+                ],
+                [
+                    2274,
+                    2033
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " \u0926\u0942\u0938\u0930\u0947 \u092a\u094b\u0932\u0930\u093e\u092f\u0921 $B$ \u0938\u0947 \u0917\u0941\u091c\u093e\u0930\u093e \u091c\u093e\u0924\u093e \u0939\u0948\u0964 $B$ \u0915\u093e \u092e\u0941\u0916\u094d\u092f \u0924\u0932",
+            "after_hyphen": false,
+            "confidence": 0.9926972061214628,
+            "confidence_rate": 0.9998757773804339
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1386,
+                    2108
+                ],
+                [
+                    1386,
+                    2032
+                ],
+                [
+                    2273,
+                    2032
+                ],
+                [
+                    2273,
+                    2108
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " A \u0915\u0947 \u092e\u0941\u0916\u094d\u092f \u0924\u0932 \u0938\u0947 $45^{\\circ}$ \u0915\u093e \u0915\u094b\u0923 \u092c\u0928\u093e\u0924\u093e \u0939\u0948\u0964 \u0928\u093f\u0930\u094d\u0917\u0924",
+            "after_hyphen": false,
+            "confidence": 0.9580678648828211,
+            "confidence_rate": 0.9992980061302776
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1381,
+                    2182
+                ],
+                [
+                    1381,
+                    2106
+                ],
+                [
+                    1762,
+                    2106
+                ],
+                [
+                    1762,
+                    2182
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " \u092a\u094d\u0930\u0915\u093e\u0936 \u0915\u0940 \u0924\u0940\u0935\u094d\u0930\u0924\u093e \u0939\u0948 :",
+            "after_hyphen": false,
+            "confidence": 0.991238081846685,
+            "confidence_rate": 0.9996741075788065
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1390,
+                    2459
+                ],
+                [
+                    1390,
+                    2382
+                ],
+                [
+                    1568,
+                    2382
+                ],
+                [
+                    1568,
+                    2459
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n(1) $\\mathrm{I}_{0}$",
+            "after_hyphen": false,
+            "confidence": 0.9474767637743904,
+            "confidence_rate": 0.9973059920676203
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1390,
+                    2654
+                ],
+                [
+                    1389,
+                    2569
+                ],
+                [
+                    1616,
+                    2566
+                ],
+                [
+                    1618,
+                    2650
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n(2) $\\mathrm{I}_{0} / 2$",
+            "after_hyphen": false,
+            "confidence": 0.7924536151372634,
+            "confidence_rate": 0.9894820093412879
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1338,
+                    2839
+                ],
+                [
+                    1337,
+                    2756
+                ],
+                [
+                    1619,
+                    2753
+                ],
+                [
+                    1620,
+                    2835
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n- (3) $\\mathrm{I}_{0} / 4$",
+            "after_hyphen": false,
+            "confidence": 0.9640715007328209,
+            "confidence_rate": 0.9984765858985586
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1388,
+                    3022
+                ],
+                [
+                    1388,
+                    2942
+                ],
+                [
+                    1618,
+                    2942
+                ],
+                [
+                    1618,
+                    3022
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n(4) $I_{0} / 8$",
+            "after_hyphen": false,
+            "confidence": 0.6886941728144946,
+            "confidence_rate": 0.9805620343766712
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    237,
+                    3153
+                ],
+                [
+                    236,
+                    3077
+                ],
+                [
+                    453,
+                    3073
+                ],
+                [
+                    454,
+                    3150
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n\nP/Page 7",
+            "after_hyphen": false,
+            "confidence": 0.8934310473315481,
+            "confidence_rate": 0.990653443250842
+        },
+        {
+            "type": "page_info",
+            "cnt": [
+                [
+                    679,
+                    3149
+                ],
+                [
+                    679,
+                    3067
+                ],
+                [
+                    1824,
+                    3067
+                ],
+                [
+                    1824,
+                    3149
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\nSPACE FOR ROUGH WORK / \u0930\u092b \u0915\u093e\u0930\u094d\u092f \u0915\u0947 \u0932\u093f\u090f \u091c\u0917\u0939",
+            "after_hyphen": false,
+            "confidence": 0.8236691423834941,
+            "confidence_rate": 0.9958811366069288
+        }
+    ],
+    "page_image_path": "exams/JEE_Main/2013/imgs/page_6.jpg",
+    "exam_name": "exams/JEE_Main/2013/Papers/jee-main-paper-1-2013-hindi-p"
+}

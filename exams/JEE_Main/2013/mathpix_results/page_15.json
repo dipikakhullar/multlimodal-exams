@@ -1,0 +1,1489 @@
+{
+    "request_id": "2024_12_29_01ab84212fd25d3d651bg",
+    "version": "RSK-M135p3",
+    "image_width": 2480,
+    "image_height": 3505,
+    "is_printed": true,
+    "is_handwritten": false,
+    "auto_rotate_confidence": 0,
+    "auto_rotate_degrees": 0,
+    "confidence": 0.34861747656248204,
+    "confidence_rate": 0.9711525984707099,
+    "text": "29. Two short bar magnets of length 1 cm each have magnetic moments $1.20 \\mathrm{Am}^{2}$ and $1.00 \\mathrm{Am}^{2}$ respectively. They are placed on a horizontal table parallel to each other with their $N$ poles pointing towards the South. They have a common magnetic equator and are separated by a distance of 20.0 cm . The value of the resultant horizontal magnetic induction at the mid - point $O$ of the line joining their centres is close to\n(Horizontal component of earth's magnetic induction is $3.6 \\times 10^{-5} \\mathrm{~Wb} / \\mathrm{m}^{2}$ )\n(1) $3.6 \\times 10^{-5} \\mathrm{~Wb} / \\mathrm{m}^{2}$\n(2) $2.56 \\times 10^{-4} \\mathrm{~Wb} / \\mathrm{m}^{2}$\n(3) $3.50 \\times 10^{-4} \\mathrm{~Wb} / \\mathrm{m}^{2}$\n(4) $5.80 \\times 10^{-4} \\mathrm{~Wb} / \\mathrm{m}^{2}$\n30. A charge $Q$ is uniformly distributed over a long rod $A B$ of length $L$ as shown in the figure. The electric potential at the point $O$ lying at a distance $L$ from the end $A$ is :\n(1) $\\frac{Q}{8 \\pi \\epsilon_{\\mathrm{o}} \\mathrm{L}}$\n(2) $\\frac{3 \\mathrm{Q}}{4 \\pi \\epsilon_{\\mathrm{O}} \\mathrm{L}}$\n(3) $\\frac{Q}{4 \\pi \\epsilon_{0} L \\ln 2}$\n(4) $\\frac{\\mathrm{Q} \\ln 2}{4 \\pi \\epsilon_{\\mathrm{o}} \\mathrm{L}}$\n29. \u092a\u094d\u0930\u0924\u094d\u092f\u0947\u0915 \u0932\u092e\u094d\u092c\u093e\u0908 1 cm \u0915\u0947 \u0926\u094b \u091b\u094b\u091f\u0947 \u091b\u0921\u093c \u091a\u0941\u092e\u094d\u092c\u0915\u094b\u0902 \u0915\u0947 \u091a\u0941\u092e\u094d\u092c\u0915\u0940\u092f \u0906\u0918\u0942\u0930\u094d\u0923 \u0915\u092e\u0936\u0903 $1.20 \\mathrm{Am}^{2}$ \u090f\u0935\u0902 $1.00 \\mathrm{Am}^{2}$ \u0939\u0948\u0964 \u0907\u0938\u0915\u0947 N \u0927\u094d\u0930\u0941\u0935\u094b\u0902 \u0915\u094b \u0926\u0915\u094d\u0937\u093f\u0923 \u0915\u0940 \u0913\u0930 \u0907\u0902\u0917\u093f\u0924 \u0915\u0930 \u090f\u0915 \u0926\u0942\u0938\u0930\u0947 \u0915\u0947 \u0938\u092e\u093e\u0928\u094d\u0924\u0930 \u0907\u0928\u094d\u0939\u0947\u0902 \u090f\u0915 \u0915\u094d\u0937\u0948\u0924\u093f\u091c \u092e\u0947\u091c \u092a\u0930 \u0930\u0916\u093e \u0917\u092f\u093e \u0939\u0948\u0964 \u0907\u0928\u0915\u0940 \u090f\u0915 \u0909\u092d\u092f\u0928\u093f\u0937\u094d\u0920 \u091a\u0941\u092e\u094d\u092c\u0915\u0940\u092f \u092e\u0927\u094d\u092f \u0930\u0947\u0916\u093e \u0939\u0948 \u0914\u0930 \u0907\u0928\u0915\u0947 \u092c\u0940\u091a \u0915\u0940 \u0926\u0942\u0930\u0940 20.0 cm \u0939\u0948\u0964 \u0907\u0928\u0915\u0947 \u0915\u0947\u0928\u094d\u0926\u094d\u0930\u094b\u0902 \u0915\u094b \u091c\u094b\u0921\u093c\u0928\u0947 \u0935\u093e\u0932\u0940 \u0930\u0947\u0916\u093e \u0915\u0947 \u092e\u0927\u094d\u092f \u092c\u093f\u0902\u0926\u0941 $O$ \u092a\u0930 \u092a\u0930\u093f\u0923\u093e\u092e\u0940 \u0915\u094d\u0937\u0948\u0924\u093f\u091c \u091a\u0941\u092e\u094d\u092c\u0915\u0940\u092f \u092a\u094d\u0930\u0947\u0930\u0923 \u0915\u093e \u092e\u093e\u0928 \u0932\u0917\u092d\u0917 \u0939\u0948 :\n(\u092a\u0943\u0925\u094d\u0935\u0940 \u0915\u0947 \u091a\u0941\u092e\u094d\u092c\u0915\u0940\u092f \u092a\u094d\u0930\u0947\u0930\u0923 \u0915\u093e \u0915\u094d\u0937\u0948\u0924\u093f\u091c \u0918\u091f\u0915 $3.6 \\times 10^{-5} \\mathrm{~Wb} / \\mathrm{m}^{2}$ \u0939\u0948\u0964)\n(1) $3.6 \\times 10^{-5} \\mathrm{~Wb} / \\mathrm{m}^{2}$\n(2) $2.56 \\times 10^{-4} \\mathrm{~Wb} / \\mathrm{m}^{2}$\n(3) $3.50 \\times 10^{-4} \\mathrm{~Wb} / \\mathrm{m}^{2}$\n(4) $5.80 \\times 10^{-4} \\mathrm{~Wb} / \\mathrm{m}^{2}$\n30. \u0906\u0935\u0947\u0936 Q \u0915\u094b \u0932\u092e\u094d\u092c\u093e\u0908 L \u0915\u0940 \u090f\u0915 \u0932\u092e\u094d\u092c\u0940 \u091b\u0921\u093c AB \u092a\u0930 \u090f\u0915\u0938\u092e\u093e\u0928 \u0930\u0942\u092a \u0938\u0947 \u0935\u093f\u0924\u0930\u093f\u0924 \u0915\u093f\u092f\u093e \u0917\u092f\u093e \u0939\u0948 \u091c\u0948\u0938\u093e \u0915\u093f \u091a\u093f\u0924\u094d\u0930 \u092e\u0947\u0902 \u0926\u0930\u094d\u0936\u093e\u092f\u093e \u0917\u092f\u093e \u0939\u0948\u0964 \u0938\u093f\u0930\u0947 A \u0938\u0947 L \u0926\u0942\u0930\u0940 \u092a\u0930 \u092c\u093f\u0928\u094d\u0926\u0941 O \u092a\u0930 \u0935\u093f\u0926\u094d\u092f\u0941\u0924 \u0935\u093f\u092d\u0935 \u0939\u0948 :\n(1) $\\frac{\\mathrm{Q}}{8 \\pi \\epsilon_{\\mathrm{o}} \\mathrm{L}}$.\n33.\n(2) $\\frac{3 \\mathrm{Q}}{4 \\pi \\epsilon_{\\mathrm{o}} \\mathrm{L}}$\n(3) $\\frac{\\mathrm{Q}}{4 \\pi \\epsilon_{\\mathrm{o}} \\mathrm{L} \\ln 2}$\n(4) $\\frac{\\mathrm{Q} \\ln 2}{4 \\pi \\epsilon_{\\mathrm{o}} \\mathrm{L}}$\n31.",
+    "line_data": [
+        {
+            "type": "column",
+            "cnt": [
+                [
+                    179,
+                    211
+                ],
+                [
+                    1206,
+                    211
+                ],
+                [
+                    1206,
+                    3017
+                ],
+                [
+                    179,
+                    3017
+                ]
+            ],
+            "included": false,
+            "is_printed": true,
+            "is_handwritten": false,
+            "error_id": "image_not_supported"
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    196,
+                    285
+                ],
+                [
+                    196,
+                    219
+                ],
+                [
+                    1184,
+                    219
+                ],
+                [
+                    1184,
+                    285
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "29. Two short bar magnets of length 1 cm each",
+            "after_hyphen": false,
+            "confidence": 0.998535871389322,
+            "confidence_rate": 0.9999733603276728
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    311,
+                    367
+                ],
+                [
+                    311,
+                    285
+                ],
+                [
+                    1190,
+                    285
+                ],
+                [
+                    1190,
+                    367
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " have magnetic moments $1.20 \\mathrm{Am}^{2}$ and",
+            "after_hyphen": false,
+            "confidence": 0.9960954189300537,
+            "confidence_rate": 0.999923292670635
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    314,
+                    441
+                ],
+                [
+                    314,
+                    364
+                ],
+                [
+                    1198,
+                    364
+                ],
+                [
+                    1198,
+                    441
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " $1.00 \\mathrm{Am}^{2}$ respectively. They are placed",
+            "after_hyphen": false,
+            "confidence": 0.8020516219935381,
+            "confidence_rate": 0.9956841966948365
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    311,
+                    519
+                ],
+                [
+                    311,
+                    445
+                ],
+                [
+                    1190,
+                    445
+                ],
+                [
+                    1190,
+                    519
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " on a horizontal table parallel to each other",
+            "after_hyphen": false,
+            "confidence": 0.9980480668600649,
+            "confidence_rate": 0.9999601264961113
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    311,
+                    596
+                ],
+                [
+                    311,
+                    522
+                ],
+                [
+                    1190,
+                    522
+                ],
+                [
+                    1190,
+                    596
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " with their $N$ poles pointing towards the",
+            "after_hyphen": false,
+            "confidence": 0.7146320343017578,
+            "confidence_rate": 0.9928768206229511
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    308,
+                    676
+                ],
+                [
+                    308,
+                    602
+                ],
+                [
+                    1187,
+                    600
+                ],
+                [
+                    1187,
+                    674
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " South. They have a common magnetic",
+            "after_hyphen": false,
+            "confidence": 0.9946346282958984,
+            "confidence_rate": 0.9998620654881055
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    312,
+                    753
+                ],
+                [
+                    312,
+                    676
+                ],
+                [
+                    1188,
+                    676
+                ],
+                [
+                    1188,
+                    753
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " equator and are separated by a distance",
+            "after_hyphen": false,
+            "confidence": 0.99951171875,
+            "confidence_rate": 0.9999889000502843
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    312,
+                    823
+                ],
+                [
+                    312,
+                    754
+                ],
+                [
+                    1188,
+                    754
+                ],
+                [
+                    1188,
+                    823
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " of 20.0 cm . The value of the resultant",
+            "after_hyphen": false,
+            "confidence": 0.9990236759185791,
+            "confidence_rate": 0.9999800654844866
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    309,
+                    904
+                ],
+                [
+                    309,
+                    832
+                ],
+                [
+                    1186,
+                    832
+                ],
+                [
+                    1186,
+                    904
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " horizontal magnetic induction at the",
+            "after_hyphen": false,
+            "confidence": 0.9990234375,
+            "confidence_rate": 0.999976170048625
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    309,
+                    983
+                ],
+                [
+                    309,
+                    912
+                ],
+                [
+                    1186,
+                    912
+                ],
+                [
+                    1186,
+                    983
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " mid - point $O$ of the line joining their",
+            "after_hyphen": false,
+            "confidence": 0.9177910666912794,
+            "confidence_rate": 0.998176441080808
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    311,
+                    1054
+                ],
+                [
+                    311,
+                    989
+                ],
+                [
+                    686,
+                    989
+                ],
+                [
+                    686,
+                    1054
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " centres is close to",
+            "after_hyphen": false,
+            "confidence": 0.9980480668600649,
+            "confidence_rate": 0.9999185932868712
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    309,
+                    1158
+                ],
+                [
+                    309,
+                    1082
+                ],
+                [
+                    1186,
+                    1082
+                ],
+                [
+                    1186,
+                    1158
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n(Horizontal component of earth's",
+            "after_hyphen": false,
+            "confidence": 0.9868390479823574,
+            "confidence_rate": 0.9996420012644304
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    308,
+                    1236
+                ],
+                [
+                    308,
+                    1151
+                ],
+                [
+                    1182,
+                    1151
+                ],
+                [
+                    1182,
+                    1236
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " magnetic induction is $3.6 \\times 10^{-5} \\mathrm{~Wb} / \\mathrm{m}^{2}$ )",
+            "after_hyphen": false,
+            "confidence": 0.9970729344058782,
+            "confidence_rate": 0.999954903204146
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    307,
+                    1391
+                ],
+                [
+                    307,
+                    1309
+                ],
+                [
+                    832,
+                    1309
+                ],
+                [
+                    832,
+                    1391
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n(1) $3.6 \\times 10^{-5} \\mathrm{~Wb} / \\mathrm{m}^{2}$",
+            "after_hyphen": false,
+            "confidence": 1,
+            "confidence_rate": 1
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    306,
+                    1490
+                ],
+                [
+                    305,
+                    1405
+                ],
+                [
+                    855,
+                    1402
+                ],
+                [
+                    856,
+                    1487
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n(2) $2.56 \\times 10^{-4} \\mathrm{~Wb} / \\mathrm{m}^{2}$",
+            "after_hyphen": false,
+            "confidence": 1,
+            "confidence_rate": 1
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    305,
+                    1583
+                ],
+                [
+                    305,
+                    1501
+                ],
+                [
+                    856,
+                    1501
+                ],
+                [
+                    856,
+                    1583
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n(3) $3.50 \\times 10^{-4} \\mathrm{~Wb} / \\mathrm{m}^{2}$",
+            "after_hyphen": false,
+            "confidence": 1,
+            "confidence_rate": 1
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    305,
+                    1680
+                ],
+                [
+                    305,
+                    1595
+                ],
+                [
+                    856,
+                    1595
+                ],
+                [
+                    856,
+                    1680
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n(4) $5.80 \\times 10^{-4} \\mathrm{~Wb} / \\mathrm{m}^{2}$",
+            "after_hyphen": false,
+            "confidence": 1,
+            "confidence_rate": 1
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    188,
+                    1870
+                ],
+                [
+                    188,
+                    1794
+                ],
+                [
+                    1182,
+                    1794
+                ],
+                [
+                    1182,
+                    1870
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n30. A charge $Q$ is uniformly distributed over",
+            "after_hyphen": false,
+            "confidence": 0.9877986907958984,
+            "confidence_rate": 0.99976394409154
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    304,
+                    1947
+                ],
+                [
+                    304,
+                    1870
+                ],
+                [
+                    1180,
+                    1870
+                ],
+                [
+                    1180,
+                    1947
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " a long rod $A B$ of length $L$ as shown in the",
+            "after_hyphen": false,
+            "confidence": 0.5416019723538564,
+            "confidence_rate": 0.9882764945433214
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    307,
+                    2024
+                ],
+                [
+                    307,
+                    1947
+                ],
+                [
+                    1183,
+                    1947
+                ],
+                [
+                    1183,
+                    2024
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " figure. The electric potential at the point $O$",
+            "after_hyphen": false,
+            "confidence": 0.9144912373899884,
+            "confidence_rate": 0.9981774303894531
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    304,
+                    2100
+                ],
+                [
+                    304,
+                    2024
+                ],
+                [
+                    1142,
+                    2024
+                ],
+                [
+                    1142,
+                    2100
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " lying at a distance $L$ from the end $A$ is :",
+            "after_hyphen": false,
+            "confidence": 0.7921038072323779,
+            "confidence_rate": 0.9955280516484223
+        },
+        {
+            "type": "diagram",
+            "cnt": [
+                [
+                    304,
+                    2231
+                ],
+                [
+                    304,
+                    2110
+                ],
+                [
+                    1087,
+                    2107
+                ],
+                [
+                    1087,
+                    2227
+                ]
+            ],
+            "included": false,
+            "is_printed": true,
+            "is_handwritten": false,
+            "error_id": "image_not_supported"
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    303,
+                    2397
+                ],
+                [
+                    303,
+                    2247
+                ],
+                [
+                    585,
+                    2247
+                ],
+                [
+                    585,
+                    2397
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n(1) $\\frac{Q}{8 \\pi \\epsilon_{\\mathrm{o}} \\mathrm{L}}$",
+            "after_hyphen": false,
+            "confidence": 0.7511617972836012,
+            "confidence_rate": 0.991098164058812
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    303,
+                    2600
+                ],
+                [
+                    303,
+                    2449
+                ],
+                [
+                    585,
+                    2449
+                ],
+                [
+                    585,
+                    2600
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n(2) $\\frac{3 \\mathrm{Q}}{4 \\pi \\epsilon_{\\mathrm{O}} \\mathrm{L}}$",
+            "after_hyphen": false,
+            "confidence": 0.34861747656248204,
+            "confidence_rate": 0.9711525984707099
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    304,
+                    2816
+                ],
+                [
+                    304,
+                    2660
+                ],
+                [
+                    660,
+                    2660
+                ],
+                [
+                    660,
+                    2816
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n(3) $\\frac{Q}{4 \\pi \\epsilon_{0} L \\ln 2}$",
+            "after_hyphen": false,
+            "confidence": 0.5047833767021075,
+            "confidence_rate": 0.9788632697949061
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    298,
+                    3008
+                ],
+                [
+                    298,
+                    2852
+                ],
+                [
+                    589,
+                    2852
+                ],
+                [
+                    589,
+                    3008
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n(4) $\\frac{\\mathrm{Q} \\ln 2}{4 \\pi \\epsilon_{\\mathrm{o}} \\mathrm{L}}$",
+            "after_hyphen": false,
+            "confidence": 0.8455147587807524,
+            "confidence_rate": 0.9959154461574894
+        },
+        {
+            "type": "column",
+            "cnt": [
+                [
+                    1213,
+                    190
+                ],
+                [
+                    2421,
+                    190
+                ],
+                [
+                    2421,
+                    3015
+                ],
+                [
+                    1213,
+                    3015
+                ]
+            ],
+            "included": false,
+            "is_printed": true,
+            "is_handwritten": false,
+            "error_id": "image_not_supported"
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1227,
+                    283
+                ],
+                [
+                    1227,
+                    199
+                ],
+                [
+                    2229,
+                    199
+                ],
+                [
+                    2229,
+                    283
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n29. \u092a\u094d\u0930\u0924\u094d\u092f\u0947\u0915 \u0932\u092e\u094d\u092c\u093e\u0908 1 cm \u0915\u0947 \u0926\u094b \u091b\u094b\u091f\u0947 \u091b\u0921\u093c \u091a\u0941\u092e\u094d\u092c\u0915\u094b\u0902 \u0915\u0947",
+            "after_hyphen": false,
+            "confidence": 0.9941522970373164,
+            "confidence_rate": 0.9999038592492501
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1346,
+                    366
+                ],
+                [
+                    1346,
+                    281
+                ],
+                [
+                    2225,
+                    281
+                ],
+                [
+                    2225,
+                    366
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " \u091a\u0941\u092e\u094d\u092c\u0915\u0940\u092f \u0906\u0918\u0942\u0930\u094d\u0923 \u0915\u092e\u0936\u0903 $1.20 \\mathrm{Am}^{2}$ \u090f\u0935\u0902 $1.00 \\mathrm{Am}^{2}$",
+            "after_hyphen": false,
+            "confidence": 0.44823709955805585,
+            "confidence_rate": 0.9880948230016717
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1343,
+                    441
+                ],
+                [
+                    1343,
+                    359
+                ],
+                [
+                    2228,
+                    359
+                ],
+                [
+                    2228,
+                    441
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " \u0939\u0948\u0964 \u0907\u0938\u0915\u0947 N \u0927\u094d\u0930\u0941\u0935\u094b\u0902 \u0915\u094b \u0926\u0915\u094d\u0937\u093f\u0923 \u0915\u0940 \u0913\u0930 \u0907\u0902\u0917\u093f\u0924 \u0915\u0930 \u090f\u0915",
+            "after_hyphen": false,
+            "confidence": 0.8893121181649829,
+            "confidence_rate": 0.9979440984414694
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1343,
+                    524
+                ],
+                [
+                    1343,
+                    439
+                ],
+                [
+                    2228,
+                    439
+                ],
+                [
+                    2228,
+                    524
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " \u0926\u0942\u0938\u0930\u0947 \u0915\u0947 \u0938\u092e\u093e\u0928\u094d\u0924\u0930 \u0907\u0928\u094d\u0939\u0947\u0902 \u090f\u0915 \u0915\u094d\u0937\u0948\u0924\u093f\u091c \u092e\u0947\u091c \u092a\u0930 \u0930\u0916\u093e \u0917\u092f\u093e \u0939\u0948\u0964",
+            "after_hyphen": false,
+            "confidence": 0.42782257762609055,
+            "confidence_rate": 0.9854678890418074
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1342,
+                    600
+                ],
+                [
+                    1342,
+                    518
+                ],
+                [
+                    2229,
+                    518
+                ],
+                [
+                    2229,
+                    600
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " \u0907\u0928\u0915\u0940 \u090f\u0915 \u0909\u092d\u092f\u0928\u093f\u0937\u094d\u0920 \u091a\u0941\u092e\u094d\u092c\u0915\u0940\u092f \u092e\u0927\u094d\u092f \u0930\u0947\u0916\u093e \u0939\u0948 \u0914\u0930",
+            "after_hyphen": false,
+            "confidence": 0.8850418445654213,
+            "confidence_rate": 0.9973487305546217
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1342,
+                    678
+                ],
+                [
+                    1342,
+                    593
+                ],
+                [
+                    2229,
+                    593
+                ],
+                [
+                    2229,
+                    678
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " \u0907\u0928\u0915\u0947 \u092c\u0940\u091a \u0915\u0940 \u0926\u0942\u0930\u0940 20.0 cm \u0939\u0948\u0964 \u0907\u0928\u0915\u0947 \u0915\u0947\u0928\u094d\u0926\u094d\u0930\u094b\u0902 \u0915\u094b",
+            "after_hyphen": false,
+            "confidence": 0.575730823334074,
+            "confidence_rate": 0.9901892452655324
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1343,
+                    756
+                ],
+                [
+                    1343,
+                    674
+                ],
+                [
+                    2228,
+                    674
+                ],
+                [
+                    2228,
+                    756
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " \u091c\u094b\u0921\u093c\u0928\u0947 \u0935\u093e\u0932\u0940 \u0930\u0947\u0916\u093e \u0915\u0947 \u092e\u0927\u094d\u092f \u092c\u093f\u0902\u0926\u0941 $O$ \u092a\u0930 \u092a\u0930\u093f\u0923\u093e\u092e\u0940 \u0915\u094d\u0937\u0948\u0924\u093f\u091c",
+            "after_hyphen": false,
+            "confidence": 0.9577619747246529,
+            "confidence_rate": 0.9992688099497531
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1338,
+                    831
+                ],
+                [
+                    1338,
+                    746
+                ],
+                [
+                    1948,
+                    746
+                ],
+                [
+                    1948,
+                    831
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " \u091a\u0941\u092e\u094d\u092c\u0915\u0940\u092f \u092a\u094d\u0930\u0947\u0930\u0923 \u0915\u093e \u092e\u093e\u0928 \u0932\u0917\u092d\u0917 \u0939\u0948 :",
+            "after_hyphen": false,
+            "confidence": 0.993183344862401,
+            "confidence_rate": 0.9998151523659791
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1340,
+                    1158
+                ],
+                [
+                    1340,
+                    1076
+                ],
+                [
+                    2219,
+                    1076
+                ],
+                [
+                    2219,
+                    1158
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n(\u092a\u0943\u0925\u094d\u0935\u0940 \u0915\u0947 \u091a\u0941\u092e\u094d\u092c\u0915\u0940\u092f \u092a\u094d\u0930\u0947\u0930\u0923 \u0915\u093e \u0915\u094d\u0937\u0948\u0924\u093f\u091c \u0918\u091f\u0915",
+            "after_hyphen": false,
+            "confidence": 0.99269506837515,
+            "confidence_rate": 0.9998406269775504
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1336,
+                    1234
+                ],
+                [
+                    1336,
+                    1154
+                ],
+                [
+                    1824,
+                    1154
+                ],
+                [
+                    1824,
+                    1234
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " $3.6 \\times 10^{-5} \\mathrm{~Wb} / \\mathrm{m}^{2}$ \u0939\u0948\u0964)",
+            "after_hyphen": false,
+            "confidence": 0.888909403054635,
+            "confidence_rate": 0.9972001184884655
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1338,
+                    1397
+                ],
+                [
+                    1338,
+                    1314
+                ],
+                [
+                    1872,
+                    1314
+                ],
+                [
+                    1872,
+                    1397
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n(1) $3.6 \\times 10^{-5} \\mathrm{~Wb} / \\mathrm{m}^{2}$",
+            "after_hyphen": false,
+            "confidence": 1,
+            "confidence_rate": 1
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1339,
+                    1494
+                ],
+                [
+                    1339,
+                    1409
+                ],
+                [
+                    1898,
+                    1409
+                ],
+                [
+                    1898,
+                    1494
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n(2) $2.56 \\times 10^{-4} \\mathrm{~Wb} / \\mathrm{m}^{2}$",
+            "after_hyphen": false,
+            "confidence": 1,
+            "confidence_rate": 1
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1338,
+                    1587
+                ],
+                [
+                    1338,
+                    1502
+                ],
+                [
+                    1894,
+                    1502
+                ],
+                [
+                    1894,
+                    1587
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n(3) $3.50 \\times 10^{-4} \\mathrm{~Wb} / \\mathrm{m}^{2}$",
+            "after_hyphen": false,
+            "confidence": 1,
+            "confidence_rate": 1
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1338,
+                    1685
+                ],
+                [
+                    1338,
+                    1601
+                ],
+                [
+                    1894,
+                    1601
+                ],
+                [
+                    1894,
+                    1685
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n(4) $5.80 \\times 10^{-4} \\mathrm{~Wb} / \\mathrm{m}^{2}$",
+            "after_hyphen": false,
+            "confidence": 0.9985356330871582,
+            "confidence_rate": 0.9999651091766529
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1221,
+                    1872
+                ],
+                [
+                    1221,
+                    1787
+                ],
+                [
+                    2218,
+                    1787
+                ],
+                [
+                    2218,
+                    1872
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n30. \u0906\u0935\u0947\u0936 Q \u0915\u094b \u0932\u092e\u094d\u092c\u093e\u0908 L \u0915\u0940 \u090f\u0915 \u0932\u092e\u094d\u092c\u0940 \u091b\u0921\u093c AB \u092a\u0930",
+            "after_hyphen": false,
+            "confidence": 0.5762873971785836,
+            "confidence_rate": 0.9918076404544155
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1336,
+                    1947
+                ],
+                [
+                    1336,
+                    1865
+                ],
+                [
+                    2218,
+                    1865
+                ],
+                [
+                    2218,
+                    1947
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " \u090f\u0915\u0938\u092e\u093e\u0928 \u0930\u0942\u092a \u0938\u0947 \u0935\u093f\u0924\u0930\u093f\u0924 \u0915\u093f\u092f\u093e \u0917\u092f\u093e \u0939\u0948 \u091c\u0948\u0938\u093e \u0915\u093f \u091a\u093f\u0924\u094d\u0930",
+            "after_hyphen": false,
+            "confidence": 0.9796555742157333,
+            "confidence_rate": 0.9995970572037693
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1332,
+                    2025
+                ],
+                [
+                    1332,
+                    1940
+                ],
+                [
+                    2217,
+                    1940
+                ],
+                [
+                    2217,
+                    2025
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " \u092e\u0947\u0902 \u0926\u0930\u094d\u0936\u093e\u092f\u093e \u0917\u092f\u093e \u0939\u0948\u0964 \u0938\u093f\u0930\u0947 A \u0938\u0947 L \u0926\u0942\u0930\u0940 \u092a\u0930 \u092c\u093f\u0928\u094d\u0926\u0941 O \u092a\u0930",
+            "after_hyphen": false,
+            "confidence": 0.5454738254045624,
+            "confidence_rate": 0.9918429044132262
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1338,
+                    2102
+                ],
+                [
+                    1338,
+                    2017
+                ],
+                [
+                    1642,
+                    2017
+                ],
+                [
+                    1642,
+                    2102
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " \u0935\u093f\u0926\u094d\u092f\u0941\u0924 \u0935\u093f\u092d\u0935 \u0939\u0948 :",
+            "after_hyphen": false,
+            "confidence": 0.9975600242614746,
+            "confidence_rate": 0.9998889626500883
+        },
+        {
+            "type": "diagram",
+            "cnt": [
+                [
+                    1336,
+                    2233
+                ],
+                [
+                    1336,
+                    2115
+                ],
+                [
+                    2119,
+                    2115
+                ],
+                [
+                    2119,
+                    2233
+                ]
+            ],
+            "included": false,
+            "is_printed": true,
+            "is_handwritten": false,
+            "error_id": "image_not_supported"
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1335,
+                    2403
+                ],
+                [
+                    1335,
+                    2252
+                ],
+                [
+                    1633,
+                    2252
+                ],
+                [
+                    1633,
+                    2403
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n(1) $\\frac{\\mathrm{Q}}{8 \\pi \\epsilon_{\\mathrm{o}} \\mathrm{L}}$.",
+            "after_hyphen": false,
+            "confidence": 0.44685049727990045,
+            "confidence_rate": 0.9805446441110484
+        },
+        {
+            "type": "page_info",
+            "cnt": [
+                [
+                    2330,
+                    2343
+                ],
+                [
+                    2330,
+                    2280
+                ],
+                [
+                    2412,
+                    2280
+                ],
+                [
+                    2412,
+                    2343
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n33.",
+            "after_hyphen": false,
+            "confidence": 0.99951171875,
+            "confidence_rate": 0.9998372130851917
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1328,
+                    2610
+                ],
+                [
+                    1328,
+                    2456
+                ],
+                [
+                    1629,
+                    2456
+                ],
+                [
+                    1629,
+                    2610
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n(2) $\\frac{3 \\mathrm{Q}}{4 \\pi \\epsilon_{\\mathrm{o}} \\mathrm{L}}$",
+            "after_hyphen": false,
+            "confidence": 0.9868785026611124,
+            "confidence_rate": 0.9996331688341894
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1329,
+                    2816
+                ],
+                [
+                    1329,
+                    2660
+                ],
+                [
+                    1694,
+                    2660
+                ],
+                [
+                    1694,
+                    2816
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n(3) $\\frac{\\mathrm{Q}}{4 \\pi \\epsilon_{\\mathrm{o}} \\mathrm{L} \\ln 2}$",
+            "after_hyphen": false,
+            "confidence": 0.952005731056426,
+            "confidence_rate": 0.9988011040265201
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1331,
+                    3007
+                ],
+                [
+                    1331,
+                    2853
+                ],
+                [
+                    1621,
+                    2853
+                ],
+                [
+                    1621,
+                    3007
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n(4) $\\frac{\\mathrm{Q} \\ln 2}{4 \\pi \\epsilon_{\\mathrm{o}} \\mathrm{L}}$",
+            "after_hyphen": false,
+            "confidence": 0.6958280225995028,
+            "confidence_rate": 0.9911938147429389
+        },
+        {
+            "type": "page_info",
+            "cnt": [
+                [
+                    2307,
+                    415
+                ],
+                [
+                    2307,
+                    352
+                ],
+                [
+                    2392,
+                    352
+                ],
+                [
+                    2392,
+                    415
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n31.",
+            "after_hyphen": false,
+            "confidence": 0.99951171875,
+            "confidence_rate": 0.9998372130851917
+        }
+    ],
+    "page_image_path": "exams/JEE_Main/2013/imgs/page_15.jpg",
+    "exam_name": "exams/JEE_Main/2013/Papers/jee-main-paper-1-2013-hindi-p"
+}

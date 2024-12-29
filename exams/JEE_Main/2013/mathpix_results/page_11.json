@@ -1,0 +1,1283 @@
+{
+    "request_id": "2024_12_29_b5ab29f9d6af25e52a7cg",
+    "version": "RSK-M135p3",
+    "image_width": 2480,
+    "image_height": 3505,
+    "is_printed": true,
+    "is_handwritten": false,
+    "auto_rotate_confidence": 0,
+    "auto_rotate_degrees": 0,
+    "confidence": 0.3056168078707354,
+    "confidence_rate": 0.9240138531111131,
+    "text": "22. The magnetic field in a travelling electromagnetic wave has a peak value of 20 nT . The peak value of electric field strength is :\n(1) $3 \\mathrm{~V} / \\mathrm{m}$\n(2) $6 \\mathrm{~V} / \\mathrm{m}$\n(3) $9 \\mathrm{~V} / \\mathrm{m}$\n(4) $12 \\mathrm{~V} / \\mathrm{m}$\n23. The anode voltage of a photocell is kept fixed. The wavelength $\\lambda$ of the light falling on the cathode is gradually changed. The plate current I of the photocell varies as follows:\n(1)\n(2)\n(3)\n(4)\n22. \u090f\u0915 \u0917\u0924\u093f\u0936\u0940\u0932 \u0935\u093f\u0926\u094d\u092f\u0941\u0924 \u091a\u0941\u092e\u094d\u092c\u0915\u0940\u092f \u0924\u0930\u0902\u0917 \u092e\u0947\u0902 \u091a\u0941\u092e\u094d\u092c\u0915\u0940\u092f \u0915\u094d\u0937\u0947\u0924\u094d\u0930\n24. \u0915\u093e \u0936\u0940\u0930\u094d\u0937 \u092e\u093e\u0928 20 nT \u0939\u0948\u0964 \u0935\u093f\u0926\u094d\u092f\u0941\u0924 \u0915\u094d\u0937\u0947\u0924\u094d\u0930 \u0938\u093e\u092e\u0930\u094d\u0925\u094d\u092f \u0915\u093e \u0936\u0940\u0930\u094d\u0937 \u092e\u093e\u0928 \u0939\u0948 :\n(1) $3 \\mathrm{~V} / \\mathrm{m}$\n(2) $6 \\mathrm{~V} / \\mathrm{m}$\n(3) $9 \\mathrm{~V} / \\mathrm{m}$\n(4) $12 \\mathrm{~V} / \\mathrm{m}$\n23. \u090f\u0915 \u092b\u094b\u091f\u094b\u0938\u0948\u0932 \u0915\u0940 \u090f\u0928\u094b\u0921 \u0935\u094b\u0932\u094d\u091f\u0924\u093e \u0928\u093f\u092f\u0924 \u0939\u0948\u0964 \u0915\u0948\u0925\u094b\u0921 \u092a\u0930 \u0906\u092a\u0924\u093f\u0924 \u092a\u094d\u0930\u0915\u093e\u0936 \u0915\u0940 \u0924\u0930\u0902\u0917\u0926\u0948\u0930\u094d\u0927\u094d\u092f $\\lambda$ \u0927\u0940\u0930\u0947-\u0927\u0940\u0930\u0947 \u092a\u0930\u093f\u0935\u0930\u094d\u0924\u093f\u0924 \u0915\u0940 \u091c\u093e\u0924\u0940 \u0939\u0948\u0964 \u092b\u094b\u091f\u094b\u0938\u0948\u0932 \u0915\u0940 \u092a\u094d\u0932\u0947\u091f \u0927\u093e\u0930\u093e I \u0907\u0938 \u092a\u094d\u0930\u0915\u093e\u0930 \u092a\u0930\u093f\u0935\u0930\u094d\u0924\u093f\u0924 \u0939\u094b\u0924\u0940 \u0939\u0948 :\n(1)\n(2)\n(3)\n(4)\nP/Page 12\nSPACE FOR ROUGH WORK / \u0930\u092b \u0915\u093e\u0930\u094d\u092f \u0915\u0947 \u0932\u093f\u090f \u091c\u0917\u0939\n$\\overline{\\mathbf{P}_{/}}$",
+    "line_data": [
+        {
+            "type": "column",
+            "cnt": [
+                [
+                    197,
+                    219
+                ],
+                [
+                    1217,
+                    219
+                ],
+                [
+                    1217,
+                    3038
+                ],
+                [
+                    197,
+                    3038
+                ]
+            ],
+            "included": false,
+            "is_printed": true,
+            "is_handwritten": false,
+            "error_id": "image_not_supported"
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    207,
+                    304
+                ],
+                [
+                    207,
+                    227
+                ],
+                [
+                    1206,
+                    227
+                ],
+                [
+                    1206,
+                    304
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "22. The magnetic field in a travelling",
+            "after_hyphen": false,
+            "confidence": 0.9990236759185791,
+            "confidence_rate": 0.9999772839557757
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    324,
+                    383
+                ],
+                [
+                    324,
+                    307
+                ],
+                [
+                    1209,
+                    307
+                ],
+                [
+                    1209,
+                    383
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " electromagnetic wave has a peak value of",
+            "after_hyphen": false,
+            "confidence": 1,
+            "confidence_rate": 1
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    324,
+                    459
+                ],
+                [
+                    324,
+                    385
+                ],
+                [
+                    1209,
+                    385
+                ],
+                [
+                    1209,
+                    459
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " 20 nT . The peak value of electric field",
+            "after_hyphen": false,
+            "confidence": 0.9868675865579718,
+            "confidence_rate": 0.9997126628970852
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    322,
+                    539
+                ],
+                [
+                    322,
+                    463
+                ],
+                [
+                    587,
+                    463
+                ],
+                [
+                    587,
+                    539
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " strength is :",
+            "after_hyphen": false,
+            "confidence": 0.6927900915291048,
+            "confidence_rate": 0.979816022696787
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    329,
+                    671
+                ],
+                [
+                    329,
+                    594
+                ],
+                [
+                    608,
+                    594
+                ],
+                [
+                    608,
+                    671
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n(1) $3 \\mathrm{~V} / \\mathrm{m}$",
+            "after_hyphen": false,
+            "confidence": 0.99951171875,
+            "confidence_rate": 0.9999728670071003
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    329,
+                    802
+                ],
+                [
+                    329,
+                    726
+                ],
+                [
+                    608,
+                    726
+                ],
+                [
+                    608,
+                    802
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n(2) $6 \\mathrm{~V} / \\mathrm{m}$",
+            "after_hyphen": false,
+            "confidence": 0.9990236759185791,
+            "confidence_rate": 0.9999457347503998
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    329,
+                    938
+                ],
+                [
+                    328,
+                    861
+                ],
+                [
+                    607,
+                    858
+                ],
+                [
+                    608,
+                    935
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n(3) $9 \\mathrm{~V} / \\mathrm{m}$",
+            "after_hyphen": false,
+            "confidence": 0.99951171875,
+            "confidence_rate": 0.9999728670071003
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    329,
+                    1069
+                ],
+                [
+                    329,
+                    990
+                ],
+                [
+                    630,
+                    990
+                ],
+                [
+                    630,
+                    1069
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n(4) $12 \\mathrm{~V} / \\mathrm{m}$",
+            "after_hyphen": false,
+            "confidence": 0.98681640625,
+            "confidence_rate": 0.9993017560565853
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    205,
+                    1334
+                ],
+                [
+                    205,
+                    1257
+                ],
+                [
+                    1208,
+                    1257
+                ],
+                [
+                    1208,
+                    1334
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n23. The anode voltage of a photocell is kept",
+            "after_hyphen": false,
+            "confidence": 0.9960989924152841,
+            "confidence_rate": 0.9999202350923851
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    319,
+                    1413
+                ],
+                [
+                    319,
+                    1336
+                ],
+                [
+                    1203,
+                    1336
+                ],
+                [
+                    1203,
+                    1413
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " fixed. The wavelength $\\lambda$ of the light falling",
+            "after_hyphen": false,
+            "confidence": 0.9980475902557373,
+            "confidence_rate": 0.999962417664299
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    322,
+                    1487
+                ],
+                [
+                    322,
+                    1416
+                ],
+                [
+                    1201,
+                    1416
+                ],
+                [
+                    1201,
+                    1487
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " on the cathode is gradually changed. The",
+            "after_hyphen": false,
+            "confidence": 0.9970715045928955,
+            "confidence_rate": 0.9999348289717264
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    320,
+                    1565
+                ],
+                [
+                    320,
+                    1491
+                ],
+                [
+                    1202,
+                    1491
+                ],
+                [
+                    1202,
+                    1565
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " plate current I of the photocell varies as",
+            "after_hyphen": false,
+            "confidence": 0.9990236759185791,
+            "confidence_rate": 0.9999792172160455
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    322,
+                    1637
+                ],
+                [
+                    322,
+                    1572
+                ],
+                [
+                    522,
+                    1572
+                ],
+                [
+                    522,
+                    1637
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " follows:",
+            "after_hyphen": false,
+            "confidence": 0.6858531681355089,
+            "confidence_rate": 0.9714096111636884
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    329,
+                    1907
+                ],
+                [
+                    329,
+                    1839
+                ],
+                [
+                    394,
+                    1839
+                ],
+                [
+                    394,
+                    1907
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n(1)",
+            "after_hyphen": false,
+            "confidence": 0.9980475902557373,
+            "confidence_rate": 0.9997557400637412
+        },
+        {
+            "type": "chart",
+            "cnt": [
+                [
+                    420,
+                    1983
+                ],
+                [
+                    420,
+                    1703
+                ],
+                [
+                    741,
+                    1703
+                ],
+                [
+                    741,
+                    1983
+                ]
+            ],
+            "included": false,
+            "is_printed": true,
+            "is_handwritten": false,
+            "subtype": "line",
+            "error_id": "image_not_supported"
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    327,
+                    2259
+                ],
+                [
+                    327,
+                    2188
+                ],
+                [
+                    396,
+                    2188
+                ],
+                [
+                    396,
+                    2259
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n(2)",
+            "after_hyphen": false,
+            "confidence": 0.994636058807373,
+            "confidence_rate": 0.999327928594155
+        },
+        {
+            "type": "chart",
+            "cnt": [
+                [
+                    426,
+                    2337
+                ],
+                [
+                    426,
+                    2044
+                ],
+                [
+                    757,
+                    2044
+                ],
+                [
+                    757,
+                    2337
+                ]
+            ],
+            "included": false,
+            "is_printed": true,
+            "is_handwritten": false,
+            "subtype": "line",
+            "error_id": "image_not_supported"
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    327,
+                    2534
+                ],
+                [
+                    396,
+                    2534
+                ],
+                [
+                    396,
+                    2603
+                ],
+                [
+                    327,
+                    2603
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n(3)",
+            "after_hyphen": false,
+            "confidence": 0.9951221942901611,
+            "confidence_rate": 0.9993889691264375
+        },
+        {
+            "type": "chart",
+            "cnt": [
+                [
+                    424,
+                    2684
+                ],
+                [
+                    424,
+                    2393
+                ],
+                [
+                    759,
+                    2393
+                ],
+                [
+                    759,
+                    2684
+                ]
+            ],
+            "included": false,
+            "is_printed": true,
+            "is_handwritten": false,
+            "subtype": "line",
+            "error_id": "image_not_supported"
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    322,
+                    2950
+                ],
+                [
+                    322,
+                    2877
+                ],
+                [
+                    390,
+                    2877
+                ],
+                [
+                    390,
+                    2950
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n(4)",
+            "after_hyphen": false,
+            "confidence": 0.9941482543945312,
+            "confidence_rate": 0.9992666522613723
+        },
+        {
+            "type": "chart",
+            "cnt": [
+                [
+                    418,
+                    3030
+                ],
+                [
+                    418,
+                    2742
+                ],
+                [
+                    754,
+                    2742
+                ],
+                [
+                    754,
+                    3030
+                ]
+            ],
+            "included": false,
+            "is_printed": true,
+            "is_handwritten": false,
+            "subtype": "line",
+            "error_id": "image_not_supported"
+        },
+        {
+            "type": "column",
+            "cnt": [
+                [
+                    1233,
+                    213
+                ],
+                [
+                    2431,
+                    213
+                ],
+                [
+                    2431,
+                    3033
+                ],
+                [
+                    1233,
+                    3033
+                ]
+            ],
+            "included": false,
+            "is_printed": true,
+            "is_handwritten": false,
+            "error_id": "image_not_supported"
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1242,
+                    304
+                ],
+                [
+                    1242,
+                    222
+                ],
+                [
+                    2252,
+                    222
+                ],
+                [
+                    2252,
+                    304
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n22. \u090f\u0915 \u0917\u0924\u093f\u0936\u0940\u0932 \u0935\u093f\u0926\u094d\u092f\u0941\u0924 \u091a\u0941\u092e\u094d\u092c\u0915\u0940\u092f \u0924\u0930\u0902\u0917 \u092e\u0947\u0902 \u091a\u0941\u092e\u094d\u092c\u0915\u0940\u092f \u0915\u094d\u0937\u0947\u0924\u094d\u0930",
+            "after_hyphen": false,
+            "confidence": 0.9990236759185791,
+            "confidence_rate": 0.999983986997124
+        },
+        {
+            "type": "page_info",
+            "cnt": [
+                [
+                    2332,
+                    304
+                ],
+                [
+                    2332,
+                    238
+                ],
+                [
+                    2422,
+                    238
+                ],
+                [
+                    2422,
+                    304
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n24.",
+            "after_hyphen": false,
+            "confidence": 0.998046875,
+            "confidence_rate": 0.9993485340175696
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1357,
+                    378
+                ],
+                [
+                    1357,
+                    301
+                ],
+                [
+                    2247,
+                    301
+                ],
+                [
+                    2247,
+                    378
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " \u0915\u093e \u0936\u0940\u0930\u094d\u0937 \u092e\u093e\u0928 20 nT \u0939\u0948\u0964 \u0935\u093f\u0926\u094d\u092f\u0941\u0924 \u0915\u094d\u0937\u0947\u0924\u094d\u0930 \u0938\u093e\u092e\u0930\u094d\u0925\u094d\u092f \u0915\u093e \u0936\u0940\u0930\u094d\u0937",
+            "after_hyphen": false,
+            "confidence": 0.9902600965125976,
+            "confidence_rate": 0.9998517133196593
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1358,
+                    452
+                ],
+                [
+                    1358,
+                    375
+                ],
+                [
+                    1517,
+                    375
+                ],
+                [
+                    1517,
+                    452
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " \u092e\u093e\u0928 \u0939\u0948 :",
+            "after_hyphen": false,
+            "confidence": 0.9883302730338809,
+            "confidence_rate": 0.9990974573332012
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1362,
+                    676
+                ],
+                [
+                    1362,
+                    594
+                ],
+                [
+                    1650,
+                    594
+                ],
+                [
+                    1650,
+                    676
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n(1) $3 \\mathrm{~V} / \\mathrm{m}$",
+            "after_hyphen": false,
+            "confidence": 0.99951171875,
+            "confidence_rate": 0.9999728670071003
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1361,
+                    808
+                ],
+                [
+                    1361,
+                    731
+                ],
+                [
+                    1646,
+                    731
+                ],
+                [
+                    1646,
+                    808
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n(2) $6 \\mathrm{~V} / \\mathrm{m}$",
+            "after_hyphen": false,
+            "confidence": 0.9990236759185791,
+            "confidence_rate": 0.9999457347503998
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1358,
+                    943
+                ],
+                [
+                    1358,
+                    864
+                ],
+                [
+                    1643,
+                    864
+                ],
+                [
+                    1643,
+                    943
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n(3) $9 \\mathrm{~V} / \\mathrm{m}$",
+            "after_hyphen": false,
+            "confidence": 0.9985356330871582,
+            "confidence_rate": 0.9999185899725354
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1359,
+                    1074
+                ],
+                [
+                    1358,
+                    995
+                ],
+                [
+                    1670,
+                    991
+                ],
+                [
+                    1671,
+                    1070
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n(4) $12 \\mathrm{~V} / \\mathrm{m}$",
+            "after_hyphen": false,
+            "confidence": 0.99951171875,
+            "confidence_rate": 0.999974295041004
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1242,
+                    1334
+                ],
+                [
+                    1242,
+                    1249
+                ],
+                [
+                    2241,
+                    1246
+                ],
+                [
+                    2241,
+                    1331
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n23. \u090f\u0915 \u092b\u094b\u091f\u094b\u0938\u0948\u0932 \u0915\u0940 \u090f\u0928\u094b\u0921 \u0935\u094b\u0932\u094d\u091f\u0924\u093e \u0928\u093f\u092f\u0924 \u0939\u0948\u0964 \u0915\u0948\u0925\u094b\u0921",
+            "after_hyphen": false,
+            "confidence": 0.9912288026029596,
+            "confidence_rate": 0.9998238177064586
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1354,
+                    1405
+                ],
+                [
+                    1354,
+                    1334
+                ],
+                [
+                    2239,
+                    1334
+                ],
+                [
+                    2239,
+                    1405
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " \u092a\u0930 \u0906\u092a\u0924\u093f\u0924 \u092a\u094d\u0930\u0915\u093e\u0936 \u0915\u0940 \u0924\u0930\u0902\u0917\u0926\u0948\u0930\u094d\u0927\u094d\u092f $\\lambda$ \u0927\u0940\u0930\u0947-\u0927\u0940\u0930\u0947 \u092a\u0930\u093f\u0935\u0930\u094d\u0924\u093f\u0924",
+            "after_hyphen": false,
+            "confidence": 0.5462517927225115,
+            "confidence_rate": 0.9899726912349778
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1358,
+                    1486
+                ],
+                [
+                    1358,
+                    1406
+                ],
+                [
+                    2240,
+                    1406
+                ],
+                [
+                    2240,
+                    1486
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " \u0915\u0940 \u091c\u093e\u0924\u0940 \u0939\u0948\u0964 \u092b\u094b\u091f\u094b\u0938\u0948\u0932 \u0915\u0940 \u092a\u094d\u0932\u0947\u091f \u0927\u093e\u0930\u093e I \u0907\u0938 \u092a\u094d\u0930\u0915\u093e\u0930",
+            "after_hyphen": false,
+            "confidence": 0.9645123702928021,
+            "confidence_rate": 0.9992776086280364
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1354,
+                    1559
+                ],
+                [
+                    1354,
+                    1486
+                ],
+                [
+                    1680,
+                    1486
+                ],
+                [
+                    1680,
+                    1559
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " \u092a\u0930\u093f\u0935\u0930\u094d\u0924\u093f\u0924 \u0939\u094b\u0924\u0940 \u0939\u0948 :",
+            "after_hyphen": false,
+            "confidence": 0.9970724578015506,
+            "confidence_rate": 0.9998778476348736
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1358,
+                    1909
+                ],
+                [
+                    1358,
+                    1837
+                ],
+                [
+                    1429,
+                    1837
+                ],
+                [
+                    1429,
+                    1909
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n(1)",
+            "after_hyphen": false,
+            "confidence": 0.9975600242614746,
+            "confidence_rate": 0.9996946769542806
+        },
+        {
+            "type": "chart",
+            "cnt": [
+                [
+                    1450,
+                    1987
+                ],
+                [
+                    1450,
+                    1705
+                ],
+                [
+                    1781,
+                    1705
+                ],
+                [
+                    1781,
+                    1987
+                ]
+            ],
+            "included": false,
+            "is_printed": true,
+            "is_handwritten": false,
+            "subtype": "line",
+            "error_id": "image_not_supported"
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1358,
+                    2258
+                ],
+                [
+                    1358,
+                    2189
+                ],
+                [
+                    1429,
+                    2189
+                ],
+                [
+                    1429,
+                    2258
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n(2)",
+            "after_hyphen": false,
+            "confidence": 0.9917197097092867,
+            "confidence_rate": 0.9989611946424264
+        },
+        {
+            "type": "chart",
+            "cnt": [
+                [
+                    1454,
+                    2336
+                ],
+                [
+                    1454,
+                    2051
+                ],
+                [
+                    1788,
+                    2051
+                ],
+                [
+                    1788,
+                    2336
+                ]
+            ],
+            "included": false,
+            "is_printed": true,
+            "is_handwritten": false,
+            "subtype": "line",
+            "error_id": "image_not_supported"
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1357,
+                    2605
+                ],
+                [
+                    1357,
+                    2542
+                ],
+                [
+                    1425,
+                    2542
+                ],
+                [
+                    1425,
+                    2605
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n(3)",
+            "after_hyphen": false,
+            "confidence": 0.9975600242614746,
+            "confidence_rate": 0.9996946769542806
+        },
+        {
+            "type": "chart",
+            "cnt": [
+                [
+                    1465,
+                    2681
+                ],
+                [
+                    1465,
+                    2407
+                ],
+                [
+                    1788,
+                    2407
+                ],
+                [
+                    1788,
+                    2681
+                ]
+            ],
+            "included": false,
+            "is_printed": true,
+            "is_handwritten": false,
+            "subtype": "line",
+            "error_id": "image_not_supported"
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1355,
+                    2953
+                ],
+                [
+                    1355,
+                    2885
+                ],
+                [
+                    1427,
+                    2885
+                ],
+                [
+                    1427,
+                    2953
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n(4)",
+            "after_hyphen": false,
+            "confidence": 0.9936623573303223,
+            "confidence_rate": 0.9992055893633013
+        },
+        {
+            "type": "chart",
+            "cnt": [
+                [
+                    1449,
+                    3024
+                ],
+                [
+                    1449,
+                    2737
+                ],
+                [
+                    1788,
+                    2737
+                ],
+                [
+                    1788,
+                    3024
+                ]
+            ],
+            "included": false,
+            "is_printed": true,
+            "is_handwritten": false,
+            "subtype": "analytical",
+            "error_id": "image_not_supported"
+        },
+        {
+            "type": "page_info",
+            "cnt": [
+                [
+                    200,
+                    3171
+                ],
+                [
+                    200,
+                    3100
+                ],
+                [
+                    441,
+                    3100
+                ],
+                [
+                    441,
+                    3171
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\nP/Page 12",
+            "after_hyphen": false,
+            "confidence": 0.7733585916642998,
+            "confidence_rate": 0.9804239607693878
+        },
+        {
+            "type": "page_info",
+            "cnt": [
+                [
+                    642,
+                    3172
+                ],
+                [
+                    642,
+                    3087
+                ],
+                [
+                    1784,
+                    3087
+                ],
+                [
+                    1784,
+                    3172
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\nSPACE FOR ROUGH WORK / \u0930\u092b \u0915\u093e\u0930\u094d\u092f \u0915\u0947 \u0932\u093f\u090f \u091c\u0917\u0939",
+            "after_hyphen": false,
+            "confidence": 0.8025342013216914,
+            "confidence_rate": 0.9953304935134253
+        },
+        {
+            "type": "page_info",
+            "cnt": [
+                [
+                    2367,
+                    3165
+                ],
+                [
+                    2367,
+                    3072
+                ],
+                [
+                    2441,
+                    3072
+                ],
+                [
+                    2441,
+                    3165
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n$\\overline{\\mathbf{P}_{/}}$",
+            "after_hyphen": false,
+            "confidence": 0.3056168078707354,
+            "confidence_rate": 0.9240138531111131
+        }
+    ],
+    "page_image_path": "exams/JEE_Main/2013/imgs/page_11.jpg",
+    "exam_name": "exams/JEE_Main/2013/Papers/jee-main-paper-1-2013-hindi-p"
+}

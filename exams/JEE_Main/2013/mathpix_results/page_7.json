@@ -1,0 +1,1239 @@
+{
+    "request_id": "2024_12_29_d989eb7f503cd6401aeag",
+    "version": "RSK-M135p3",
+    "image_width": 2480,
+    "image_height": 3505,
+    "is_printed": true,
+    "is_handwritten": false,
+    "auto_rotate_confidence": 0,
+    "auto_rotate_degrees": 0,
+    "confidence": 0.7144947052001953,
+    "confidence_rate": 0.981496678317621,
+    "text": "14. The supply voltage to a room is 120 V . The resistance of the lead wires is $6 \\Omega$. A 60 W bulb is already switched on. What is the decrease of voltage across the bulb, when a 240 W heater is switched on in parallel to the bulb ?\n(1) zero Volt\n(2) 2.9 Volt\n(3) 13.3 Volt\n(4) 10.04 Volt\n15.\n\nThe above $p$-v diagram represents the thermodynamic cycle of an engine, operating with an ideal monoatomic gas. The amount of heat, extracted from the source in a single cycle is :\n(1) $p_{0} \\mathrm{v}_{0}$\n(2) $\\left(\\frac{13}{2}\\right) p_{0} \\mathrm{v}_{0}$\n(3) $\\left(\\frac{11}{2}\\right) p_{0} \\mathrm{v}_{0}$\n(4) $4 p_{0} \\mathrm{v}_{0}$\n14. \u090f\u0915 \u0915\u092e\u0930\u0947 \u0915\u0940 \u0938\u092a\u094d\u0932\u093e\u0908 \u0935\u094b\u0932\u094d\u091f\u0924\u093e 120 V \u0939\u0948\u0964 \u0932\u0940\u0921 \u0915\u0947 \u0924\u093e\u0930\u094b\u0902 \u0915\u093e \u092a\u094d\u0930\u0924\u093f\u0930\u094b\u0927 $6 \\Omega$ \u0939\u0948\u0964 \u090f\u0915 60 W \u092c\u0932\u094d\u092c \u092a\u0939\u0932\u0947 \u0938\u0947 \u0939\u0940 \u091c\u0932 \u0930\u0939\u093e \u0939\u0948\u0964 \u0907\u0938 \u092c\u0932\u094d\u092c \u0915\u0947 \u0938\u092e\u093e\u0928\u094d\u0924\u0930 \u092e\u0947\u0902 240 W \u0915\u093e \u0939\u0940\u091f\u0930 \u091c\u0932\u093e\u0928\u0947 \u092a\u0930 \u092c\u0932\u094d\u092c \u0915\u0940 \u0935\u094b\u0932\u094d\u091f\u0924\u093e \u092e\u0947\u0902 \u0915\u093f\u0924\u0928\u0940 \u0915\u092e\u0940 \u0906\u092f\u0947\u0917\u0940 ?\n- (1) \u0936\u0942\u0928\u094d\u092f \u0935\u094b\u0932\u094d\u091f\n(2) 2.9 \u0935\u094b\u0932\u094d\u091f\n(3) 13.3 \u0935\u094b\u0932\u094d\u091f\n(4) 10.04 \u0935\u094b\u0932\u094d\u091f\n15.\n\n\u0909\u092a\u0930\u094b\u0915\u094d\u0924 $p$-v \u091a\u093f\u0924\u094d\u0930 \u090f\u0915 \u0906\u0926\u0930\u094d\u0936 \u090f\u0915\u092a\u0930\u092e\u093e\u0923\u0941\u0915 \u0917\u0948\u0938 \u0938\u0947 \u0915\u093e\u0930\u094d\u092f \u0915\u0930 \u0930\u0939\u0947 \u090f\u0915 \u0907\u0928\u094d\u091c\u093f\u0928 \u0915\u0947 \u090a\u0937\u094d\u092e\u093e\u0917\u0924\u093f\u0915 \u091a\u0915\u094d\u0930 \u0915\u094b \u0926\u0930\u094d\u0936\u093e\u0924\u093e \u0939\u0948\u0964 \u090f\u0915 \u090f\u0915\u0932 \u091a\u0915\u094d\u0930 \u092e\u0947\u0902 \u0938\u094d\u0930\u094b\u0924 \u0938\u0947 \u0932\u0940 \u0917\u0908 \u090a\u0937\u094d\u092e\u093e \u0915\u0940 \u092e\u093e\u0924\u094d\u0930\u093e \u0939\u0948 :\n(1) $p_{0} \\mathrm{v}_{0}$\n(2) $\\left(\\frac{13}{2}\\right) p_{0} \\mathrm{v}_{0}$\n- (3) $\\left(\\frac{11}{2}\\right) p_{0} \\mathrm{v}_{0}$\n(4) $4 p_{0} v_{0}$\n\nP/Page 8\nSPACE FOR ROUGH WORK / \u0930\u092b \u0915\u093e\u0930\u094d\u092f \u0915\u0947 \u0932\u093f\u090f \u091c\u0917\u0939",
+    "line_data": [
+        {
+            "type": "column",
+            "cnt": [
+                [
+                    228,
+                    186
+                ],
+                [
+                    1242,
+                    186
+                ],
+                [
+                    1242,
+                    3027
+                ],
+                [
+                    228,
+                    3027
+                ]
+            ],
+            "included": false,
+            "is_printed": true,
+            "is_handwritten": false,
+            "error_id": "image_not_supported"
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    245,
+                    293
+                ],
+                [
+                    243,
+                    214
+                ],
+                [
+                    1229,
+                    194
+                ],
+                [
+                    1230,
+                    274
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "14. The supply voltage to a room is 120 V . The",
+            "after_hyphen": false,
+            "confidence": 0.9926957816547234,
+            "confidence_rate": 0.9998713938009928
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    357,
+                    366
+                ],
+                [
+                    355,
+                    292
+                ],
+                [
+                    1231,
+                    264
+                ],
+                [
+                    1233,
+                    338
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " resistance of the lead wires is $6 \\Omega$. A 60 W",
+            "after_hyphen": false,
+            "confidence": 0.9746448879595846,
+            "confidence_rate": 0.9995062355609386
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    357,
+                    437
+                ],
+                [
+                    355,
+                    358
+                ],
+                [
+                    1232,
+                    346
+                ],
+                [
+                    1233,
+                    425
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " bulb is already switched on. What is the",
+            "after_hyphen": false,
+            "confidence": 1,
+            "confidence_rate": 1
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    356,
+                    510
+                ],
+                [
+                    356,
+                    436
+                ],
+                [
+                    1232,
+                    426
+                ],
+                [
+                    1233,
+                    500
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " decrease of voltage across the bulb, when",
+            "after_hyphen": false,
+            "confidence": 0.99560546875,
+            "confidence_rate": 0.9999042607662291
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    355,
+                    584
+                ],
+                [
+                    354,
+                    510
+                ],
+                [
+                    1228,
+                    506
+                ],
+                [
+                    1228,
+                    580
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " a 240 W heater is switched on in parallel",
+            "after_hyphen": false,
+            "confidence": 0.9965867961305432,
+            "confidence_rate": 0.9999329622052046
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    355,
+                    659
+                ],
+                [
+                    355,
+                    590
+                ],
+                [
+                    631,
+                    590
+                ],
+                [
+                    631,
+                    659
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " to the bulb ?",
+            "after_hyphen": false,
+            "confidence": 0.7144947052001953,
+            "confidence_rate": 0.981496678317621
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    353,
+                    798
+                ],
+                [
+                    353,
+                    724
+                ],
+                [
+                    682,
+                    724
+                ],
+                [
+                    682,
+                    798
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n(1) zero Volt",
+            "after_hyphen": false,
+            "confidence": 0.9980483050458702,
+            "confidence_rate": 0.999891472445517
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    354,
+                    940
+                ],
+                [
+                    353,
+                    866
+                ],
+                [
+                    654,
+                    862
+                ],
+                [
+                    655,
+                    936
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n(2) 2.9 Volt",
+            "after_hyphen": false,
+            "confidence": 0.8691275924356145,
+            "confidence_rate": 0.9930112686767392
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    352,
+                    1079
+                ],
+                [
+                    352,
+                    1008
+                ],
+                [
+                    678,
+                    1008
+                ],
+                [
+                    678,
+                    1079
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n(3) 13.3 Volt",
+            "after_hyphen": false,
+            "confidence": 0.9198095299568133,
+            "confidence_rate": 0.9953669512230661
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    352,
+                    1224
+                ],
+                [
+                    352,
+                    1153
+                ],
+                [
+                    700,
+                    1153
+                ],
+                [
+                    700,
+                    1224
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n(4) 10.04 Volt",
+            "after_hyphen": false,
+            "confidence": 0.7240809252131124,
+            "confidence_rate": 0.9854320581590978
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    237,
+                    1554
+                ],
+                [
+                    237,
+                    1491
+                ],
+                [
+                    311,
+                    1491
+                ],
+                [
+                    311,
+                    1554
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n15.",
+            "after_hyphen": false,
+            "confidence": 0.99951171875,
+            "confidence_rate": 0.9998372130851917
+        },
+        {
+            "type": "chart",
+            "cnt": [
+                [
+                    333,
+                    1826
+                ],
+                [
+                    333,
+                    1432
+                ],
+                [
+                    817,
+                    1432
+                ],
+                [
+                    817,
+                    1826
+                ]
+            ],
+            "included": false,
+            "is_printed": true,
+            "is_handwritten": false,
+            "subtype": "analytical",
+            "error_id": "image_not_supported"
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    345,
+                    1965
+                ],
+                [
+                    345,
+                    1891
+                ],
+                [
+                    1221,
+                    1891
+                ],
+                [
+                    1221,
+                    1965
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n\nThe above $p$-v diagram represents the",
+            "after_hyphen": false,
+            "confidence": 0.9980480668600649,
+            "confidence_rate": 0.9999565822615986
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    345,
+                    2041
+                ],
+                [
+                    345,
+                    1967
+                ],
+                [
+                    1221,
+                    1967
+                ],
+                [
+                    1221,
+                    2041
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " thermodynamic cycle of an engine,",
+            "after_hyphen": false,
+            "confidence": 0.998046875,
+            "confidence_rate": 0.9999485530382877
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    346,
+                    2118
+                ],
+                [
+                    346,
+                    2044
+                ],
+                [
+                    1220,
+                    2044
+                ],
+                [
+                    1220,
+                    2118
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " operating with an ideal monoatomic gas.",
+            "after_hyphen": false,
+            "confidence": 0.9985356330871582,
+            "confidence_rate": 0.9999666950967585
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    344,
+                    2191
+                ],
+                [
+                    344,
+                    2125
+                ],
+                [
+                    1223,
+                    2125
+                ],
+                [
+                    1223,
+                    2191
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " The amount of heat, extracted from the",
+            "after_hyphen": false,
+            "confidence": 0.9951171875,
+            "confidence_rate": 0.9998861745628689
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    346,
+                    2270
+                ],
+                [
+                    346,
+                    2199
+                ],
+                [
+                    902,
+                    2199
+                ],
+                [
+                    902,
+                    2270
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " source in a single cycle is :",
+            "after_hyphen": false,
+            "confidence": 0.9409465789794922,
+            "confidence_rate": 0.9982113394607568
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    346,
+                    2417
+                ],
+                [
+                    347,
+                    2338
+                ],
+                [
+                    569,
+                    2342
+                ],
+                [
+                    567,
+                    2422
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n(1) $p_{0} \\mathrm{v}_{0}$",
+            "after_hyphen": false,
+            "confidence": 0.8479970128973946,
+            "confidence_rate": 0.9943306776167713
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    345,
+                    2647
+                ],
+                [
+                    345,
+                    2490
+                ],
+                [
+                    690,
+                    2490
+                ],
+                [
+                    690,
+                    2647
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n(2) $\\left(\\frac{13}{2}\\right) p_{0} \\mathrm{v}_{0}$",
+            "after_hyphen": false,
+            "confidence": 0.8521836740745876,
+            "confidence_rate": 0.9959070351199069
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    344,
+                    2874
+                ],
+                [
+                    344,
+                    2723
+                ],
+                [
+                    686,
+                    2723
+                ],
+                [
+                    686,
+                    2874
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n(3) $\\left(\\frac{11}{2}\\right) p_{0} \\mathrm{v}_{0}$",
+            "after_hyphen": false,
+            "confidence": 0.8835046055968173,
+            "confidence_rate": 0.9968291717193672
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    344,
+                    3019
+                ],
+                [
+                    344,
+                    2940
+                ],
+                [
+                    587,
+                    2940
+                ],
+                [
+                    587,
+                    3019
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n(4) $4 p_{0} \\mathrm{v}_{0}$",
+            "after_hyphen": false,
+            "confidence": 0.774653931825251,
+            "confidence_rate": 0.991524822239917
+        },
+        {
+            "type": "column",
+            "cnt": [
+                [
+                    1261,
+                    183
+                ],
+                [
+                    2285,
+                    183
+                ],
+                [
+                    2285,
+                    3036
+                ],
+                [
+                    1261,
+                    3036
+                ]
+            ],
+            "included": false,
+            "is_printed": true,
+            "is_handwritten": false,
+            "error_id": "image_not_supported"
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1272,
+                    263
+                ],
+                [
+                    1272,
+                    192
+                ],
+                [
+                    2277,
+                    192
+                ],
+                [
+                    2277,
+                    263
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n14. \u090f\u0915 \u0915\u092e\u0930\u0947 \u0915\u0940 \u0938\u092a\u094d\u0932\u093e\u0908 \u0935\u094b\u0932\u094d\u091f\u0924\u093e 120 V \u0939\u0948\u0964 \u0932\u0940\u0921 \u0915\u0947",
+            "after_hyphen": false,
+            "confidence": 0.9946410505908669,
+            "confidence_rate": 0.9999040517446564
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1386,
+                    345
+                ],
+                [
+                    1386,
+                    263
+                ],
+                [
+                    2273,
+                    263
+                ],
+                [
+                    2273,
+                    345
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " \u0924\u093e\u0930\u094b\u0902 \u0915\u093e \u092a\u094d\u0930\u0924\u093f\u0930\u094b\u0927 $6 \\Omega$ \u0939\u0948\u0964 \u090f\u0915 60 W \u092c\u0932\u094d\u092c \u092a\u0939\u0932\u0947 \u0938\u0947",
+            "after_hyphen": false,
+            "confidence": 0.99951171875,
+            "confidence_rate": 0.9999915793372107
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1384,
+                    420
+                ],
+                [
+                    1384,
+                    346
+                ],
+                [
+                    2274,
+                    346
+                ],
+                [
+                    2274,
+                    420
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " \u0939\u0940 \u091c\u0932 \u0930\u0939\u093e \u0939\u0948\u0964 \u0907\u0938 \u092c\u0932\u094d\u092c \u0915\u0947 \u0938\u092e\u093e\u0928\u094d\u0924\u0930 \u092e\u0947\u0902 240 W \u0915\u093e",
+            "after_hyphen": false,
+            "confidence": 0.9985356330871582,
+            "confidence_rate": 0.9999733559886683
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1387,
+                    500
+                ],
+                [
+                    1387,
+                    420
+                ],
+                [
+                    2271,
+                    420
+                ],
+                [
+                    2271,
+                    500
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " \u0939\u0940\u091f\u0930 \u091c\u0932\u093e\u0928\u0947 \u092a\u0930 \u092c\u0932\u094d\u092c \u0915\u0940 \u0935\u094b\u0932\u094d\u091f\u0924\u093e \u092e\u0947\u0902 \u0915\u093f\u0924\u0928\u0940 \u0915\u092e\u0940",
+            "after_hyphen": false,
+            "confidence": 0.9960987542294788,
+            "confidence_rate": 0.9999185684099018
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1388,
+                    572
+                ],
+                [
+                    1388,
+                    501
+                ],
+                [
+                    1553,
+                    501
+                ],
+                [
+                    1553,
+                    572
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " \u0906\u092f\u0947\u0917\u0940 ?",
+            "after_hyphen": false,
+            "confidence": 0.905455284519121,
+            "confidence_rate": 0.9917577067610224
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1355,
+                    809
+                ],
+                [
+                    1355,
+                    724
+                ],
+                [
+                    1700,
+                    724
+                ],
+                [
+                    1700,
+                    809
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n- (1) \u0936\u0942\u0928\u094d\u092f \u0935\u094b\u0932\u094d\u091f",
+            "after_hyphen": false,
+            "confidence": 0.924912691116333,
+            "confidence_rate": 0.996458289708307
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1388,
+                    943
+                ],
+                [
+                    1386,
+                    866
+                ],
+                [
+                    1690,
+                    859
+                ],
+                [
+                    1692,
+                    935
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n(2) 2.9 \u0935\u094b\u0932\u094d\u091f",
+            "after_hyphen": false,
+            "confidence": 0.99853515625,
+            "confidence_rate": 0.9999301968324261
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1383,
+                    1086
+                ],
+                [
+                    1383,
+                    1006
+                ],
+                [
+                    1711,
+                    1006
+                ],
+                [
+                    1711,
+                    1086
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n(3) 13.3 \u0935\u094b\u0932\u094d\u091f",
+            "after_hyphen": false,
+            "confidence": 0.9956073760986328,
+            "confidence_rate": 0.9997999154823392
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1384,
+                    1227
+                ],
+                [
+                    1384,
+                    1145
+                ],
+                [
+                    1737,
+                    1145
+                ],
+                [
+                    1737,
+                    1227
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n(4) 10.04 \u0935\u094b\u0932\u094d\u091f",
+            "after_hyphen": false,
+            "confidence": 0.9824302196502686,
+            "confidence_rate": 0.9992296029510159
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1269,
+                    1554
+                ],
+                [
+                    1269,
+                    1491
+                ],
+                [
+                    1349,
+                    1491
+                ],
+                [
+                    1349,
+                    1554
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n15.",
+            "after_hyphen": false,
+            "confidence": 0.99951171875,
+            "confidence_rate": 0.9998372130851917
+        },
+        {
+            "type": "chart",
+            "cnt": [
+                [
+                    1379,
+                    1832
+                ],
+                [
+                    1379,
+                    1438
+                ],
+                [
+                    1852,
+                    1438
+                ],
+                [
+                    1852,
+                    1832
+                ]
+            ],
+            "included": false,
+            "is_printed": true,
+            "is_handwritten": false,
+            "subtype": "analytical",
+            "error_id": "image_not_supported"
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1376,
+                    1969
+                ],
+                [
+                    1376,
+                    1881
+                ],
+                [
+                    2260,
+                    1881
+                ],
+                [
+                    2260,
+                    1969
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n\n\u0909\u092a\u0930\u094b\u0915\u094d\u0924 $p$-v \u091a\u093f\u0924\u094d\u0930 \u090f\u0915 \u0906\u0926\u0930\u094d\u0936 \u090f\u0915\u092a\u0930\u092e\u093e\u0923\u0941\u0915 \u0917\u0948\u0938 \u0938\u0947",
+            "after_hyphen": false,
+            "confidence": 0.762583930322573,
+            "confidence_rate": 0.994801201082955
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1377,
+                    2035
+                ],
+                [
+                    1377,
+                    1963
+                ],
+                [
+                    2259,
+                    1963
+                ],
+                [
+                    2259,
+                    2035
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " \u0915\u093e\u0930\u094d\u092f \u0915\u0930 \u0930\u0939\u0947 \u090f\u0915 \u0907\u0928\u094d\u091c\u093f\u0928 \u0915\u0947 \u090a\u0937\u094d\u092e\u093e\u0917\u0924\u093f\u0915 \u091a\u0915\u094d\u0930 \u0915\u094b",
+            "after_hyphen": false,
+            "confidence": 0.9713995350235662,
+            "confidence_rate": 0.9993956529467715
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1376,
+                    2115
+                ],
+                [
+                    1376,
+                    2036
+                ],
+                [
+                    2260,
+                    2036
+                ],
+                [
+                    2260,
+                    2115
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " \u0926\u0930\u094d\u0936\u093e\u0924\u093e \u0939\u0948\u0964 \u090f\u0915 \u090f\u0915\u0932 \u091a\u0915\u094d\u0930 \u092e\u0947\u0902 \u0938\u094d\u0930\u094b\u0924 \u0938\u0947 \u0932\u0940 \u0917\u0908 \u090a\u0937\u094d\u092e\u093e",
+            "after_hyphen": false,
+            "confidence": 0.9776931950921516,
+            "confidence_rate": 0.9995744421864953
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1376,
+                    2188
+                ],
+                [
+                    1376,
+                    2117
+                ],
+                [
+                    1603,
+                    2117
+                ],
+                [
+                    1603,
+                    2188
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " \u0915\u0940 \u092e\u093e\u0924\u094d\u0930\u093e \u0939\u0948 :",
+            "after_hyphen": false,
+            "confidence": 0.9183786323783494,
+            "confidence_rate": 0.9955286830868767
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1379,
+                    2422
+                ],
+                [
+                    1379,
+                    2343
+                ],
+                [
+                    1601,
+                    2343
+                ],
+                [
+                    1601,
+                    2422
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n(1) $p_{0} \\mathrm{v}_{0}$",
+            "after_hyphen": false,
+            "confidence": 0.8881273161933303,
+            "confidence_rate": 0.9959173164859844
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1376,
+                    2651
+                ],
+                [
+                    1376,
+                    2497
+                ],
+                [
+                    1724,
+                    2497
+                ],
+                [
+                    1724,
+                    2651
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n(2) $\\left(\\frac{13}{2}\\right) p_{0} \\mathrm{v}_{0}$",
+            "after_hyphen": false,
+            "confidence": 0.9596197401335587,
+            "confidence_rate": 0.9989436819633039
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1332,
+                    2877
+                ],
+                [
+                    1332,
+                    2731
+                ],
+                [
+                    1724,
+                    2731
+                ],
+                [
+                    1724,
+                    2877
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n- (3) $\\left(\\frac{11}{2}\\right) p_{0} \\mathrm{v}_{0}$",
+            "after_hyphen": false,
+            "confidence": 0.899570433349854,
+            "confidence_rate": 0.9974219161546924
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1375,
+                    3024
+                ],
+                [
+                    1377,
+                    2947
+                ],
+                [
+                    1626,
+                    2951
+                ],
+                [
+                    1625,
+                    3028
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n(4) $4 p_{0} v_{0}$",
+            "after_hyphen": false,
+            "confidence": 0.7882134183608969,
+            "confidence_rate": 0.9912244214021682
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    222,
+                    3137
+                ],
+                [
+                    222,
+                    3063
+                ],
+                [
+                    441,
+                    3063
+                ],
+                [
+                    441,
+                    3137
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n\nP/Page 8",
+            "after_hyphen": false,
+            "confidence": 0.9026040844695736,
+            "confidence_rate": 0.9914970838288307
+        },
+        {
+            "type": "page_info",
+            "cnt": [
+                [
+                    664,
+                    3144
+                ],
+                [
+                    664,
+                    3061
+                ],
+                [
+                    1800,
+                    3061
+                ],
+                [
+                    1800,
+                    3144
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\nSPACE FOR ROUGH WORK / \u0930\u092b \u0915\u093e\u0930\u094d\u092f \u0915\u0947 \u0932\u093f\u090f \u091c\u0917\u0939",
+            "after_hyphen": false,
+            "confidence": 0.9259230573661625,
+            "confidence_rate": 0.9983638051524013
+        }
+    ],
+    "page_image_path": "exams/JEE_Main/2013/imgs/page_7.jpg",
+    "exam_name": "exams/JEE_Main/2013/Papers/jee-main-paper-1-2013-hindi-p"
+}

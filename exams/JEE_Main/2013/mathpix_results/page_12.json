@@ -1,0 +1,610 @@
+{
+    "request_id": "2024_12_29_6564b93b43fda0437883g",
+    "version": "RSK-M135p3",
+    "image_width": 2480,
+    "image_height": 3505,
+    "is_printed": true,
+    "is_handwritten": false,
+    "auto_rotate_confidence": 1.2278406060772795e-05,
+    "auto_rotate_degrees": 0,
+    "confidence": 0.546697636918509,
+    "confidence_rate": 0.9867952092445331,
+    "text": "\u0915\u094d\u0937\u0947\u0924\u094d\u0930\n\u0936\u0940\u0930\u094d\u0937\n(1)\n(2)\n(3)\n(4)\n24. \u090f\u0915 LED \u0915\u0940 I-V \u0932\u0915\u094d\u0937\u0923\u0924\u093e \u0939\u0948 :\n(1)\n(2)\n(3)\n(4)\n\nP/Page 13 SPACE FOR ROUGH WORK / \u0930\u092b \u0915\u093e\u0930\u094d\u092f \u0915\u0947 \u0932\u093f\u090f \u091c\u0917\u0939",
+    "line_data": [
+        {
+            "type": "column",
+            "cnt": [
+                [
+                    27,
+                    228
+                ],
+                [
+                    833,
+                    228
+                ],
+                [
+                    833,
+                    3067
+                ],
+                [
+                    27,
+                    3067
+                ]
+            ],
+            "included": false,
+            "is_printed": true,
+            "is_handwritten": false,
+            "error_id": "image_not_supported"
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    38,
+                    318
+                ],
+                [
+                    42,
+                    236
+                ],
+                [
+                    132,
+                    240
+                ],
+                [
+                    128,
+                    322
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\u0915\u094d\u0937\u0947\u0924\u094d\u0930",
+            "after_hyphen": false,
+            "confidence": 0.99755859375,
+            "confidence_rate": 0.9997963214668081
+        },
+        {
+            "type": "page_info",
+            "cnt": [
+                [
+                    36,
+                    396
+                ],
+                [
+                    36,
+                    316
+                ],
+                [
+                    129,
+                    316
+                ],
+                [
+                    129,
+                    396
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n\u0936\u0940\u0930\u094d\u0937",
+            "after_hyphen": false,
+            "confidence": 1,
+            "confidence_rate": 1
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    331,
+                    980
+                ],
+                [
+                    331,
+                    904
+                ],
+                [
+                    403,
+                    904
+                ],
+                [
+                    403,
+                    980
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n(1)",
+            "after_hyphen": false,
+            "confidence": 0.9985356330871582,
+            "confidence_rate": 0.9998168367581933
+        },
+        {
+            "type": "diagram",
+            "cnt": [
+                [
+                    441,
+                    1109
+                ],
+                [
+                    441,
+                    660
+                ],
+                [
+                    802,
+                    660
+                ],
+                [
+                    802,
+                    1109
+                ]
+            ],
+            "included": false,
+            "is_printed": true,
+            "is_handwritten": false,
+            "error_id": "image_not_supported"
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    334,
+                    1685
+                ],
+                [
+                    334,
+                    1611
+                ],
+                [
+                    411,
+                    1611
+                ],
+                [
+                    411,
+                    1685
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n(2)",
+            "after_hyphen": false,
+            "confidence": 0.9931735992431641,
+            "confidence_rate": 0.9991441405552335
+        },
+        {
+            "type": "chart",
+            "cnt": [
+                [
+                    441,
+                    1768
+                ],
+                [
+                    441,
+                    1447
+                ],
+                [
+                    819,
+                    1447
+                ],
+                [
+                    819,
+                    1768
+                ]
+            ],
+            "included": false,
+            "is_printed": true,
+            "is_handwritten": false,
+            "subtype": "analytical",
+            "error_id": "image_not_supported"
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    342,
+                    2322
+                ],
+                [
+                    342,
+                    2256
+                ],
+                [
+                    413,
+                    2256
+                ],
+                [
+                    413,
+                    2322
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n(3)",
+            "after_hyphen": false,
+            "confidence": 0.9975600242614746,
+            "confidence_rate": 0.9996946769542806
+        },
+        {
+            "type": "chart",
+            "cnt": [
+                [
+                    437,
+                    2415
+                ],
+                [
+                    437,
+                    2087
+                ],
+                [
+                    801,
+                    2087
+                ],
+                [
+                    801,
+                    2415
+                ]
+            ],
+            "included": false,
+            "is_printed": true,
+            "is_handwritten": false,
+            "subtype": "analytical",
+            "error_id": "image_not_supported"
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    346,
+                    2898
+                ],
+                [
+                    420,
+                    2898
+                ],
+                [
+                    420,
+                    2972
+                ],
+                [
+                    346,
+                    2972
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n(4)",
+            "after_hyphen": false,
+            "confidence": 0.9936609268188477,
+            "confidence_rate": 0.9992054095517247
+        },
+        {
+            "type": "diagram",
+            "cnt": [
+                [
+                    441,
+                    3059
+                ],
+                [
+                    441,
+                    2736
+                ],
+                [
+                    824,
+                    2736
+                ],
+                [
+                    824,
+                    3059
+                ]
+            ],
+            "included": false,
+            "is_printed": true,
+            "is_handwritten": false,
+            "error_id": "image_not_supported"
+        },
+        {
+            "type": "column",
+            "cnt": [
+                [
+                    1231,
+                    227
+                ],
+                [
+                    1935,
+                    227
+                ],
+                [
+                    1935,
+                    2971
+                ],
+                [
+                    1231,
+                    2971
+                ]
+            ],
+            "included": false,
+            "is_printed": true,
+            "is_handwritten": false,
+            "error_id": "image_not_supported"
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1239,
+                    307
+                ],
+                [
+                    1239,
+                    235
+                ],
+                [
+                    1926,
+                    235
+                ],
+                [
+                    1926,
+                    307
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n24. \u090f\u0915 LED \u0915\u0940 I-V \u0932\u0915\u094d\u0937\u0923\u0924\u093e \u0939\u0948 :",
+            "after_hyphen": false,
+            "confidence": 0.627980464028722,
+            "confidence_rate": 0.9867952092445331
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1366,
+                    990
+                ],
+                [
+                    1366,
+                    916
+                ],
+                [
+                    1443,
+                    916
+                ],
+                [
+                    1443,
+                    990
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n(1)",
+            "after_hyphen": false,
+            "confidence": 0.9975595474243164,
+            "confidence_rate": 0.999694617222077
+        },
+        {
+            "type": "diagram",
+            "cnt": [
+                [
+                    1476,
+                    1099
+                ],
+                [
+                    1476,
+                    686
+                ],
+                [
+                    1832,
+                    686
+                ],
+                [
+                    1832,
+                    1099
+                ]
+            ],
+            "included": false,
+            "is_printed": true,
+            "is_handwritten": false,
+            "error_id": "image_not_supported"
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1372,
+                    1672
+                ],
+                [
+                    1372,
+                    1603
+                ],
+                [
+                    1443,
+                    1603
+                ],
+                [
+                    1443,
+                    1672
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n(2)",
+            "after_hyphen": false,
+            "confidence": 0.9946372479898855,
+            "confidence_rate": 0.9993280779430883
+        },
+        {
+            "type": "chart",
+            "cnt": [
+                [
+                    1470,
+                    1761
+                ],
+                [
+                    1470,
+                    1443
+                ],
+                [
+                    1854,
+                    1443
+                ],
+                [
+                    1854,
+                    1761
+                ]
+            ],
+            "included": false,
+            "is_printed": true,
+            "is_handwritten": false,
+            "subtype": "analytical",
+            "error_id": "image_not_supported"
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1379,
+                    2314
+                ],
+                [
+                    1379,
+                    2243
+                ],
+                [
+                    1447,
+                    2243
+                ],
+                [
+                    1447,
+                    2314
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n(3)",
+            "after_hyphen": false,
+            "confidence": 0.9960973262786865,
+            "confidence_rate": 0.9995113308096667
+        },
+        {
+            "type": "chart",
+            "cnt": [
+                [
+                    1476,
+                    2401
+                ],
+                [
+                    1476,
+                    2084
+                ],
+                [
+                    1837,
+                    2084
+                ],
+                [
+                    1837,
+                    2401
+                ]
+            ],
+            "included": false,
+            "is_printed": true,
+            "is_handwritten": false,
+            "subtype": "analytical",
+            "error_id": "image_not_supported"
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    1384,
+                    2963
+                ],
+                [
+                    1384,
+                    2892
+                ],
+                [
+                    1453,
+                    2892
+                ],
+                [
+                    1453,
+                    2963
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n(4)",
+            "after_hyphen": false,
+            "confidence": 0.9941482543945312,
+            "confidence_rate": 0.9992666522613723
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    226,
+                    3194
+                ],
+                [
+                    225,
+                    3112
+                ],
+                [
+                    458,
+                    3109
+                ],
+                [
+                    459,
+                    3191
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": "\n\nP/Page 13",
+            "after_hyphen": false,
+            "confidence": 0.8970965284571534,
+            "confidence_rate": 0.991681575003631
+        },
+        {
+            "type": "text",
+            "cnt": [
+                [
+                    663,
+                    3195
+                ],
+                [
+                    662,
+                    3110
+                ],
+                [
+                    1812,
+                    3103
+                ],
+                [
+                    1813,
+                    3188
+                ]
+            ],
+            "included": true,
+            "is_printed": true,
+            "is_handwritten": false,
+            "text": " SPACE FOR ROUGH WORK / \u0930\u092b \u0915\u093e\u0930\u094d\u092f \u0915\u0947 \u0932\u093f\u090f \u091c\u0917\u0939",
+            "after_hyphen": false,
+            "confidence": 0.546697636918509,
+            "confidence_rate": 0.9872341118889912
+        }
+    ],
+    "page_image_path": "exams/JEE_Main/2013/imgs/page_12.jpg",
+    "exam_name": "exams/JEE_Main/2013/Papers/jee-main-paper-1-2013-hindi-p"
+}
