@@ -23,43 +23,48 @@ APP_KEY = "cohere_app_key"
 GPT_PROMPT = """
 You will be provided a piece of text containing multiple questions with answer options. 
 Each question may include images, diagrams, or equations represented by placeholders such as
-`<jee_hindi_2024_p2_0.png>`. Extract the multiple-choice questions in {lang} language. Return a json with question number as question_num key, question text as "question_text", choices as a list with "choices". If it includes any placeholder, put it with the "image" key as a list, else leave empty. If the image placeholder are part of choices, put them inside the "choices" key.
-Below is an example of the expected output format:
+`<jee_hindi_2024_p2_0.png>`. Extract the multiple-choice questions in {} language. The question number should be inside <question_num></question_num> tags.
+The question should be inside the tags <question> </question> and the choices inside the tags <choices> </choices>. If it includes any placeholder, put it inside the tags <image></image> for each question, else leave empty. If the image placeholder are part of choices, put them inside the choices tags.
+Additionally, the correct answer might be present in the image either explicitly provided or by a mark next to the correct answer of the multiple choices. Provide the number or letter of the correct answer between the tags <answer> </answer>. If no answer is present, leave empty.
+The output format should be the following, depending on the number of choices present:
+<question_num> </question_num>
+<question> </question>
+<image> </image>
+<choices>
+</choices>
+<answer> </answer>
 
-{{
-    "question_num": 1,
-    "question_text": "What is the capital of France?",
-    "choices": ["Paris", "London", "Berlin", "Madrid"],
-    "image": [<jee_hindi_2024_p2_0.png>]
-}}
-
-{processed_output}
+{}
 """
-GPT_PROMPT.format(lang="Hindi", processed_output="")
+
+
 def process_image_with_mathpix(image_path):
     """Process an image using Mathpix API and return the response."""
     r = requests.post(
         "https://api.mathpix.com/v3/text",
         files={"file": open(image_path, "rb")},
         data={
-            "options_json": json.dumps({
-                "math_inline_delimiters": ["$", "$"],
-                "rm_spaces": True,
-                "include_line_data": True
-            })
+            "options_json": json.dumps(
+                {
+                    "math_inline_delimiters": ["$", "$"],
+                    "rm_spaces": True,
+                    "include_line_data": True,
+                }
+            )
         },
         headers={
             "app_id": APP_ID,
             "app_key": APP_KEY,
-        }
+        },
     )
     return r.json()
+
 
 def process_line_data(pdf_response, crops_dir):
     """Processes the line data from the response to extract text and insert placeholders for non-text elements."""
     processed_output = []
     img_counter = 0
-    
+
     for page in pdf_response:
         response = pdf_response[page]
         page_output = ""
@@ -67,19 +72,31 @@ def process_line_data(pdf_response, crops_dir):
             if line.get("type") == "page_info":
                 continue
             response["exam_name"] = response["exam_name"].split("/")[-1]
-            if line.get("cnt") and line.get("type") not in ["text", "math", "column"]:
-                output_dir = os.path.join(crops_dir, f'mm_data/{response["exam_name"]}')
+            if line.get("cnt") and line.get("type") not in [
+                "text",
+                "math",
+                "column",
+            ]:
+                output_dir = os.path.join(
+                    crops_dir,
+                    f'mm_data/{response["exam_name"]}',
+                )
                 img_prefix = response["exam_name"]
                 os.makedirs(output_dir, exist_ok=True)
                 image_filename = f"{output_dir}/{img_prefix}_{img_counter}.png"
-                crop_image(response["page_image_path"], line, image_filename)
+                crop_image(
+                    response["page_image_path"],
+                    line,
+                    image_filename,
+                )
                 page_output += f" <{img_prefix}_{img_counter}.png>"
                 img_counter += 1
             else:
                 page_output += f"{line.get('text', '')} "
         processed_output.append(page_output.strip())
-        
+
     return processed_output
+
 
 def crop_image(page_image_path, line, cropped_img_path):
     """Crop the image based on the bounding box coordinates."""
@@ -91,6 +108,7 @@ def crop_image(page_image_path, line, cropped_img_path):
     y_max = max(point[1] for point in cnt)
     cropped_image = page_image.crop((x_min, y_min, x_max, y_max))
     cropped_image.save(cropped_img_path)
+
 
 def process_pdf(pdf_path, json_output_dir):
     """Convert PDF to images and process each page with Mathpix."""
@@ -110,11 +128,19 @@ def process_pdf(pdf_path, json_output_dir):
         pdf_response[f"page_{i + 1}"] = response
         output_file = os.path.join(json_output_dir, f"page_{i + 1}.json")
         with open(output_file, "w") as f:
-                json.dump(response, f, indent=4)
+            json.dump(response, f, indent=4)
     print(f"All pages processed. Response saved to {output_file}")
     return pdf_response
 
-def chat_completion(client, messages, model, return_text=True, return_usage=True, model_args=None):
+
+def chat_completion(
+    client,
+    messages,
+    model,
+    return_text=True,
+    return_usage=True,
+    model_args=None,
+):
     """Calls OpenAI API with the provided messages and model."""
     if model_args is None:
         model_args = {}
@@ -134,17 +160,26 @@ def chat_completion(client, messages, model, return_text=True, return_usage=True
             if return_usage:
                 return usage
             return response
-        except (APITimeoutError, APIConnectionError, RateLimitError, InternalServerError) as e:
+        except (
+            APITimeoutError,
+            APIConnectionError,
+            RateLimitError,
+            InternalServerError,
+        ) as e:
             print(f"OpenAI error: {str(e)}. Waiting for 1 minute.")
             time.sleep(60)
             continue
 
+
 def process_questions(api_key, lang, processed_output, model="gpt-4o"):
     """Process questions using OpenAI API."""
     client = OpenAI(api_key=api_key)
-    prompt = GPT_PROMPT.format(lang=lang, processed_output=processed_output)
+    prompt = GPT_PROMPT.format(lang, processed_output)
     messages = [
-        {"role": "system", "content": "You are a helpful assistant."},
+        {
+            "role": "system",
+            "content": "You are a helpful assistant.",
+        },
         {"role": "user", "content": prompt},
     ]
     model_args = {"max_tokens": 1024, "temperature": 0.7}
@@ -156,12 +191,13 @@ def process_questions(api_key, lang, processed_output, model="gpt-4o"):
             model=model,
             return_text=True,
             return_usage=True,
-            model_args=model_args
+            model_args=model_args,
         )
         return response_text
     except Exception as e:
         print(f"Error processing questions: {e}")
         return None
+
 
 def plot_bounding_boxes(image_path, response):
     """Plots bounding boxes from Mathpix API response on top of the input image."""
@@ -207,9 +243,12 @@ def get_options(choices_matches):
         final_matches.append(options)
     return final_matches
 
+
 def parse_gpt_output(response):
     question_pattern = re.compile(r"<question>(.*?)</question>", re.DOTALL)
-    instruction_pattern = re.compile(r"<instruction>(.*?)</instruction>", re.DOTALL)
+    instruction_pattern = re.compile(
+        r"<instruction>(.*?)</instruction>", re.DOTALL
+    )
     choices_pattern = re.compile(r"<choices>(.*?)</choices>", re.DOTALL)
     answer_pattern = re.compile(r"<answer>(.*?)</answer>", re.DOTALL)
     requires_image_pattern = re.compile(r"<image>(.*?)</image>", re.DOTALL)
@@ -227,10 +266,14 @@ def parse_gpt_output(response):
     q_nums = question_num.findall(response)
     if len(instruction_matches) == len(question_matches):
         for i in range(len(question_matches)):
-            question_matches[i] = instruction_matches[i] + "\n" + question_matches[i]
+            question_matches[i] = (
+                instruction_matches[i] + "\n" + question_matches[i]
+            )
     else:
         if len(instruction_matches) < len(question_matches):
-            instruction_matches += [''] * (len(question_matches) - len(instruction_matches))
+            instruction_matches += [""] * (
+                len(question_matches) - len(instruction_matches)
+            )
         else:
             raise ValueError()
     final_matches = get_options(choices_matches)
@@ -245,36 +288,78 @@ def parse_gpt_output(response):
         q_nums,
     )
 
+
 def main():
-    parser = argparse.ArgumentParser(description="Process PDF and extract questions using Mathpix and OpenAI APIs.")
-    parser.add_argument("--pdf_path", type=str, default="sample.pdf", help="Default path to the PDF file.")
-    parser.add_argument("--lang", type=str, default="sample.pdf", help="Default path to the PDF file.")
-    parser.add_argument("--mathpix_out_dir", type=str, default="exams/JEE_Main/2013/mathpix_results")
-    parser.add_argument("--crops_dir", type=str, default="exams/JEE_Main/2013/crops")
-    parser.add_argument("--processed_out_dir", type=str, default="exams/JEE_Main/2013/processed_results")
-    parser.add_argument("--api_key", type=str, default="", help="Default OpenAI API key.")
+    parser = argparse.ArgumentParser(
+        description="Process PDF and extract questions using Mathpix and OpenAI APIs."
+    )
+    parser.add_argument(
+        "--pdf_path",
+        type=str,
+        default="sample.pdf",
+        help="Default path to the PDF file.",
+    )
+    parser.add_argument(
+        "--lang",
+        type=str,
+        default="sample.pdf",
+        help="Default path to the PDF file.",
+    )
+    parser.add_argument(
+        "--mathpix_out_dir",
+        type=str,
+        default="exams/JEE_Main/2013/mathpix_results",
+    )
+    parser.add_argument(
+        "--crops_dir",
+        type=str,
+        default="exams/JEE_Main/2013/crops",
+    )
+    parser.add_argument(
+        "--processed_out_dir",
+        type=str,
+        default="exams/JEE_Main/2013/processed_results",
+    )
+    parser.add_argument(
+        "--api_key",
+        type=str,
+        default="",
+        help="Default OpenAI API key.",
+    )
     args = parser.parse_args()
 
     pdf_response = process_pdf(args.pdf_path, args.mathpix_out_dir)
-    
+
     processed_output = process_line_data(pdf_response, args.crops_dir)
-    for page in processed_output:
+    os.makedirs(args.processed_out_dir, exist_ok=True)
+    for page_num, page in enumerate(processed_output):
+        output_file = os.path.join(args.processed_out_dir, f"page_{page_num + 1}.json")
         response_text = process_questions(args.api_key, args.lang, page)
-        print(response_text)
         # print(response_text)
-        # questions, choices, crop_image_paths, q_nums, = parse_gpt_output(response_text)
-        # for i, question in enumerate(questions):
-        #     print(f"Question {q_nums[i]}: {question}")
-        #     print(f"Choices: {choices[i]}")
-        #     # print(f"Question Number: {q_nums[i]}")
-        #     print(f"Image: {crop_image_paths[i]}")
-        #     print("\n")
+        (
+            questions,
+            choices,
+            crop_image_paths,
+            q_nums,
+        ) = parse_gpt_output(response_text)
+        page_data = []
+        for i, question in enumerate(questions):
+            question_data = {
+                "question_num": q_nums[i],
+                "question": question,
+                "choices": choices[i],
+                "image": crop_image_paths[i],
+            }
+            page_data.append(question_data)
+        with open(output_file, "w") as f:
+            json.dump(page_data, f, indent=4)
+        print(f"Saved question data to {output_file}")
 
 
 if __name__ == "__main__":
     main()
 
-# python parse.py --pdf_path exams/JEE_Main/2013/Papers/jee-main-paper-1-2013-hindi-p.pdf --lang Hindi --mathpix_out_dir exams/JEE_Main/2013/mathpix_results --crops_dir exams/JEE_Main/2013/crops --processed_out_dir exams/JEE_Main/2013/processed_results  --api_key 
+# python parse.py --pdf_path exams/JEE_Main/2013/Papers/jee-main-paper-1-2013-hindi-p.pdf --lang Hindi --mathpix_out_dir exams/JEE_Main/2013/mathpix_results --crops_dir exams/JEE_Main/2013/crops --processed_out_dir exams/JEE_Main/2013/processed_results  --api_key
 # {
 #     "language": args.lang,
 #     "country": "India",
@@ -290,6 +375,6 @@ if __name__ == "__main__":
 #     "answer": "",
 #     "image_png": png_file,
 #     "image_information" : "essential",
-#     "image_type": 
+#     "image_type":
 #     "parallel_question_id": None, #This exam does not contain questions duplicated in different languages.
 # }
